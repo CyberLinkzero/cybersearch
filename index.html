@@ -5,225 +5,220 @@
 <title>CyberSearch – GitHub & Web Search</title>
 <meta name="description" content="CyberSearch: a search engine for GitHub projects and external sites.">
 <style>
-:root {
-  --bg: #0b0f14; --text: #e6edf3; --card: #161b22; --hover: #222c36; --link: #58a6ff; --muted:#aaa;
+:root{
+  --bg:#0b0f14; --text:#e6edf3; --card:#161b22; --hover:#222c36; --link:#58a6ff; --muted:#aaa; --border:#333;
 }
-body { font-family: system-ui, sans-serif; background: var(--bg); color: var(--text); margin: 0; }
-header { text-align: center; padding: 40px; position: relative; }
-.autocomplete { position: relative; display: inline-block; width: 60%; max-width: 900px; }
-#searchRow { display: flex; gap: 8px; align-items: center; }
-#searchBox {
-  flex: 1; padding: 14px 40px 14px 14px; font-size: 18px; border-radius: 10px; border: none; background: var(--card); color: var(--text);
+.light{
+  --bg:#ffffff; --text:#111; --card:#f5f5f7; --hover:#e9e9ee; --link:#0a66ff; --muted:#666; --border:#d0d0d0;
 }
-.btn {
-  padding: 12px 16px; border-radius: 10px; border: none; cursor: pointer; background: var(--card); color: var(--text);
+*{box-sizing:border-box}
+body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text);margin:0}
+header{padding:28px 16px;position:relative}
+.container{max-width:1000px;margin:0 auto}
+.topbar{display:flex;gap:12px;align-items:center;justify-content:space-between;margin-bottom:16px}
+.brand{font-weight:700;font-size:22px}
+.row{display:flex;gap:8px;align-items:center}
+.btn{
+  padding:12px 16px;border-radius:10px;border:1px solid var(--border);
+  background:var(--card);color:var(--text);cursor:pointer
 }
-.btn:hover { background: var(--hover); }
-.clear-btn {
-  position: absolute; right: 122px; /* leave space for button */ top: 50%; transform: translateY(-50%);
-  cursor: pointer; font-size: 18px; color: var(--muted); display: none;
+.btn:hover{background:var(--hover)}
+/* Input with inner clear button */
+.input-wrap{position:relative;flex:1;min-width:280px}
+#searchBox{
+  width:100%;padding:14px 40px 14px 14px;font-size:18px;border-radius:10px;border:1px solid var(--border);
+  background:var(--card);color:var(--text)
 }
-.clear-btn:hover { color: var(--text); }
-.results { max-width: 900px; margin: 20px auto; padding: 0 16px; }
-.card { background: var(--card); padding: 20px; margin: 15px 0; border-radius: 12px; }
-.title { font-size: 20px; color: var(--link); text-decoration: none; }
-.suggestions, .recent-searches {
-  position: absolute; background: var(--card); border: 1px solid #333; border-radius: 6px;
-  width: 100%; max-height: 220px; overflow-y: auto; z-index: 99; margin-top: 6px;
+.clear-btn{
+  position:absolute;right:10px;top:50%;transform:translateY(-50%);
+  cursor:pointer;font-size:18px;color:var(--muted);display:none;user-select:none
 }
-.suggestion-item, .recent-item { padding: 8px; cursor: pointer; }
-.suggestion-item:hover, .recent-item:hover, .active { background: var(--hover); }
-.recent-label { font-size: 12px; padding: 4px 8px; color: var(--muted); border-bottom: 1px solid #333; }
-#err { display:none; background:#642; color:#fff; padding:8px 12px; border-radius:8px; max-width:900px; margin:0 auto 10px; }
+.clear-btn:hover{color:var(--text)}
+.results{max-width:1000px;margin:10px auto 30px;padding:0 16px}
+.card{background:var(--card);padding:18px;margin:12px 0;border-radius:12px;border:1px solid var(--border)}
+.title{font-size:20px;color:var(--link);text-decoration:none}
+#err{display:none;background:#8b2e2e;color:#fff;padding:8px 12px;border-radius:8px;margin:8px 0}
+/* Dropdowns anchored to input-wrap */
+.dropdown{
+  position:absolute;left:0;right:0;top:calc(100% + 6px);background:var(--card);border:1px solid var(--border);
+  border-radius:10px;max-height:220px;overflow:auto;z-index:10
+}
+.item{padding:10px 12px;cursor:pointer}
+.item:hover,.item.active{background:var(--hover)}
+.label{font-size:12px;color:var(--muted);padding:6px 10px;border-bottom:1px solid var(--border)}
 </style>
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 </head>
 <body>
 <header>
-  <h1>⚡ CyberSearch</h1>
-  <div id="err"></div>
-  <div class="autocomplete">
-    <div id="searchRow">
-      <input type="text" id="searchBox" placeholder="Search projects and sites...">
-      <span id="clearBtn" class="clear-btn">❌</span>
-      <button id="searchBtn" class="btn">Search</button>
-      <button id="toggleTheme" class="btn">🌙 Dark</button>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">⚡ CyberSearch</div>
+      <button id="toggleTheme" class="btn" aria-pressed="false">🌙 Dark</button>
     </div>
-    <div id="suggestions" class="suggestions"></div>
-    <div id="recentSearches" class="recent-searches" style="display:none;"></div>
+
+    <div class="row">
+      <div class="input-wrap" id="inputWrap">
+        <input type="text" id="searchBox" placeholder="Search projects and sites..." autocomplete="off" />
+        <span id="clearBtn" class="clear-btn" title="Clear">❌</span>
+
+        <!-- Dropdowns sit inside input-wrap so they align with the input -->
+        <div id="suggestions" class="dropdown" style="display:none;"></div>
+        <div id="recent" class="dropdown" style="display:none;"></div>
+      </div>
+
+      <button id="searchBtn" class="btn">Search</button>
+    </div>
+
+    <div id="err"></div>
   </div>
 </header>
-<div class="results" id="results"></div>
-<script>
-let data = [], idx;
-let recent = [];
-let activeIndex = -1;
-let currentList = [];
-const err = (msg) => { const e = document.getElementById('err'); e.textContent = msg; e.style.display='block'; };
 
-async function loadJSON(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(path + " → HTTP " + res.status);
-  return res.json();
+<div class="results" id="results"></div>
+
+<script>
+let data=[], idx;
+let recent=[], currentItems=[], activeIndex=-1;
+
+const $ = sel => document.querySelector(sel);
+const $$ = sel => Array.from(document.querySelectorAll(sel));
+const err = msg => { const e=$("#err"); e.textContent=msg; e.style.display="block"; };
+
+async function tryFetch(path){
+  try{ const r = await fetch(path,{cache:"no-store"}); if(!r.ok) return null; return await r.json(); }
+  catch{ return null; }
 }
 
-async function init() {
-  try {
-    const batches = await Promise.allSettled([
-      loadJSON("projects1.json"),
-      loadJSON("external1.json")
-    ]);
-    batches.forEach(b => {
-      if (b.status === "fulfilled" && Array.isArray(b.value)) data = data.concat(b.value);
-      if (b.status === "rejected") err("Could not load: " + b.reason.message + ". Are you serving over http://localhost and is the file present?");
-    });
-    if (data.length === 0) err("No data loaded. Make sure projects1.json / external1.json exist and you're serving this folder (not opening as a file).");
-  } catch (e) {
-    err("Data load error: " + e.message);
-  }
+async function init(){
+  // Try multiple shards if you later split files
+  const projectData = await tryFetch("projects1.json");
+  const externalData = await tryFetch("external1.json");
 
-  if (typeof lunr === "undefined") {
-    err("Lunr.js failed to load. Check your internet connection (CDN).");
+  if(projectData && Array.isArray(projectData)) data.push(...projectData);
+  if(externalData && Array.isArray(externalData)) data.push(...externalData);
+
+  if(data.length===0){
+    err("No data loaded. Ensure projects1.json / external1.json are next to index.html (or update paths).");
     return;
   }
 
-  idx = lunr(function () {
-    this.ref('id');
-    this.field('title'); this.field('description'); this.field('language');
-    data.forEach(d => this.add(d));
+  idx = lunr(function(){
+    this.ref('id'); this.field('title'); this.field('description'); this.field('language');
+    data.forEach(d=>this.add(d));
   });
 
-  // Optionally render some default results (top N) so page isn't empty
-  render(data.slice(0, 5).map(d => ({ ref: d.id })));
+  render(data.slice(0,5).map(d=>({ref:d.id})));
 }
 
-function render(results) {
-  const container = document.getElementById("results");
-  container.innerHTML = results.map(r => {
-    const doc = data.find(d => d.id === (r.ref || r));
-    if (!doc) return "";
+function render(results){
+  const R=$("#results");
+  R.innerHTML = results.map(r=>{
+    const ref=r.ref||r; const d=data.find(x=>x.id===ref);
+    if(!d) return "";
     return `<div class="card">
-      <a href="${doc.page}" class="title">${doc.title}</a>
-      <p>${doc.description}</p>
-      <p>⭐ ${doc.stars || ""} ${doc.language || ""}</p>
+      <a class="title" href="${d.page}">${d.title}</a>
+      <p>${d.description||""}</p>
+      <p>⭐ ${d.stars||""} ${d.language||""}</p>
     </div>`;
   }).join("");
 }
 
-function runSearch(q) {
-  if (!idx || !q) { render([]); return; }
-  if (!recent.includes(q)) {
-    recent.push(q); if (recent.length > 10) recent.shift();
-  }
+function runSearch(q){
+  if(!idx || !q){ $("#suggestions").style.display="none"; return render([]); }
+  if(!recent.includes(q)){ recent.push(q); if(recent.length>10) recent.shift(); }
   showRecent();
-  const results = idx.search(q);
-  render(results);
+  render(idx.search(q));
 }
 
-function highlightItem(index) {
-  clearHighlights();
-  if (currentList.length > 0 && index >= 0 && index < currentList.length) {
-    currentList[index].classList.add("active");
-  }
-}
-function clearHighlights() { currentList.forEach(item => item.classList.remove("active")); }
+function showSuggestions(q){
+  const box=$("#searchBox"), S=$("#suggestions");
+  S.innerHTML=""; S.style.display="none"; currentItems=[]; activeIndex=-1;
+  if(!q || !idx) return;
 
-function showSuggestions(query) {
-  const box = document.getElementById("searchBox");
-  const suggestionsDiv = document.getElementById("suggestions");
-  suggestionsDiv.innerHTML = ""; currentList = [];
-  if (!query) return;
+  const hits = idx.search(q+"*").slice(0,8);
+  if(hits.length===0) return;
 
-  const results = idx ? idx.search(query + "*").slice(0, 8) : [];
-  results.forEach(r => {
-    const doc = data.find(d => d.id === r.ref);
-    if (doc) {
-      const item = document.createElement("div");
-      item.className = "suggestion-item";
-      item.innerText = doc.title;
-      item.onclick = () => {
-        box.value = doc.title;
-        suggestionsDiv.innerHTML = "";
-        runSearch(doc.title);
-      };
-      suggestionsDiv.appendChild(item);
-      currentList.push(item);
-    }
+  hits.forEach(h=>{
+    const d=data.find(x=>x.id===h.ref); if(!d) return;
+    const div=document.createElement("div"); div.className="item"; div.textContent=d.title;
+    div.onclick=()=>{ box.value=d.title; S.style.display="none"; runSearch(d.title); };
+    S.appendChild(div); currentItems.push(div);
   });
+  S.style.display="block";
 }
 
-function showRecent() {
-  const recentDiv = document.getElementById("recentSearches");
-  recentDiv.innerHTML = ""; currentList = [];
-  if (recent.length === 0) { recentDiv.style.display = "none"; return; }
-  recentDiv.style.display = "block";
-  const label = document.createElement("div");
-  label.className = "recent-label"; label.innerText = "Recent Searches";
-  recentDiv.appendChild(label);
-
-  recent.slice(-5).reverse().forEach(q => {
-    const item = document.createElement("div");
-    item.className = "recent-item";
-    item.innerText = q;
-    item.onclick = () => {
-      document.getElementById("searchBox").value = q;
-      runSearch(q);
-      recentDiv.style.display = "none";
-    };
-    recentDiv.appendChild(item);
-    currentList.push(item);
+function showRecent(){
+  const R=$("#recent");
+  R.innerHTML=""; R.style.display="none"; currentItems=[]; activeIndex=-1;
+  if(recent.length===0) return;
+  const label=document.createElement("div"); label.className="label"; label.textContent="Recent Searches"; R.appendChild(label);
+  recent.slice(-5).reverse().forEach(q=>{
+    const div=document.createElement("div"); div.className="item"; div.textContent=q;
+    div.onclick=()=>{ $("#searchBox").value=q; runSearch(q); R.style.display="none"; };
+    R.appendChild(div); currentItems.push(div);
   });
+  R.style.display="block";
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function clearDropdowns(){
+  $("#suggestions").style.display="none";
+  $("#recent").style.display="none";
+  currentItems=[]; activeIndex=-1;
+}
+function highlight(i){
+  currentItems.forEach(el=>el.classList.remove("active"));
+  if(i>=0 && i<currentItems.length) currentItems[i].classList.add("active");
+}
+
+document.addEventListener("DOMContentLoaded", ()=>{
   init();
-  const box = document.getElementById("searchBox");
-  const clearBtn = document.getElementById("clearBtn");
-  const searchBtn = document.getElementById("searchBtn");
-  const toggleBtn = document.getElementById("toggleTheme");
 
-  // Typing search + suggestions
-  box.addEventListener("input", e => {
-    const val = e.target.value;
-    activeIndex = -1;
-    showSuggestions(val);
-    clearBtn.style.display = val ? "block" : "none";
+  const box=$("#searchBox"), clearBtn=$("#clearBtn"), searchBtn=$("#searchBtn"), toggle=$("#toggleTheme");
+  const suggestions=$("#suggestions"), recentBox=$("#recent");
+
+  // Typing
+  box.addEventListener("input", e=>{
+    const v=e.target.value.trim();
+    clearBtn.style.display = v ? "block" : "none";
+    if(v){ showSuggestions(v); } else { clearDropdowns(); showRecent(); }
   });
 
-  // Enter to search
-  box.addEventListener("keydown", e => {
-    if (e.key === "Enter") {
-      runSearch(box.value.trim());
+  // Enter / arrows / esc
+  box.addEventListener("keydown", e=>{
+    if(e.key==="Enter"){ runSearch(box.value.trim()); clearDropdowns(); }
+    if(["ArrowDown","ArrowUp"].includes(e.key) && currentItems.length){
+      e.preventDefault();
+      activeIndex = e.key==="ArrowDown"
+        ? (activeIndex+1)%currentItems.length
+        : (activeIndex-1+currentItems.length)%currentItems.length;
+      highlight(activeIndex);
     }
-    if (["ArrowDown","ArrowUp","Escape"].includes(e.key)) {
-      const hasSuggestions = document.getElementById("suggestions").children.length > 0;
-      const list = hasSuggestions ? document.getElementById("suggestions") : document.getElementById("recentSearches");
-      if (list && currentList.length > 0) {
-        if (e.key === "ArrowDown") { activeIndex = (activeIndex + 1) % currentList.length; highlightItem(activeIndex); e.preventDefault(); }
-        if (e.key === "ArrowUp")   { activeIndex = (activeIndex - 1 + currentList.length) % currentList.length; highlightItem(activeIndex); e.preventDefault(); }
-        if (e.key === "Escape")    { document.getElementById("suggestions").innerHTML = ""; document.getElementById("recentSearches").style.display = "none"; activeIndex = -1; }
-      }
-    }
+    if(e.key==="Escape"){ clearDropdowns(); }
   });
 
-  // Click search button
-  searchBtn.addEventListener("click", () => runSearch(box.value.trim()));
+  // Focus shows recent
+  box.addEventListener("focus", ()=>{ if(!box.value) showRecent(); });
 
-  // Clear button
-  clearBtn.addEventListener("click", () => {
-    box.value = ""; document.getElementById("results").innerHTML = "";
-    document.getElementById("suggestions").innerHTML = "";
-    document.getElementById("recentSearches").style.display = "block";
-    clearBtn.style.display = "none"; activeIndex = -1; showRecent(); box.focus();
+  // Clear
+  clearBtn.addEventListener("click", ()=>{
+    box.value=""; clearBtn.style.display="none"; $("#results").innerHTML="";
+    clearDropdowns(); showRecent(); box.focus();
   });
 
-  // Show recent on focus
-  box.addEventListener("focus", () => { if (!box.value) { activeIndex = -1; showRecent(); } });
+  // Search button
+  searchBtn.addEventListener("click", ()=>runSearch(box.value.trim()));
 
-  // Dark/Light toggle
-  toggleBtn.addEventListener("click", () => {
-    document.body.classList.toggle("light-mode");
-    toggleBtn.textContent = document.body.classList.contains("light-mode") ? "🌞 Light" : "🌙 Dark";
+  // Hide dropdowns if clicking outside input-wrap
+  document.addEventListener("click", (e)=>{
+    const wrap = document.getElementById("inputWrap");
+    if(!wrap.contains(e.target)) clearDropdowns();
+  });
+
+  // Theme toggle
+  toggle.addEventListener("click", ()=>{
+    const isLight = document.body.classList.toggle("light");
+    toggle.textContent = isLight ? "🌞 Light" : "🌙 Dark";
+    toggle.setAttribute("aria-pressed", String(isLight));
   });
 });
 </script>
