@@ -1,0 +1,20 @@
+[
+  {
+    "id": "https://www.python.org",
+    "title": "Welcome to Python.org",
+    "description": "The official home of the Python Programming Language",
+    "language": "",
+    "stars": "",
+    "url": "https://www.python.org",
+    "page": "external/Welcome_to_Python.org.html"
+  },
+  {
+    "id": "https://pytorch.org",
+    "title": "PyTorch",
+    "description": "PyTorch Foundation is the deep learning community home for the open source PyTorch framework and ecosystem.",
+    "language": "",
+    "stars": "",
+    "url": "https://pytorch.org",
+    "page": "external/PyTorch.html"
+  }
+]
