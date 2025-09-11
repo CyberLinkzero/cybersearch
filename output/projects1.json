@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "614765452",
+    "title": "AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stars": 178413,
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "page": "project/AutoGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/130738209?v=4"
+  },
+  {
+    "id": "527591471",
+    "title": "stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "stars": 156326,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "page": "project/stable-diffusion-webui.html",
+    "image": "https://avatars.githubusercontent.com/u/20920490?v=4"
+  },
+  {
+    "id": "193215554",
+    "title": "n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": 136461,
+    "url": "https://github.com/n8n-io/n8n",
+    "page": "project/n8n.html",
+    "image": "https://avatars.githubusercontent.com/u/45487711?v=4"
+  },
+  {
+    "id": "552661142",
+    "title": "langchain",
+    "description": "\ud83e\udd9c\ud83d\udd17 Build context-aware reasoning applications \ud83e\udd9c\ud83d\udd17",
+    "language": "Jupyter Notebook",
+    "stars": 115141,
+    "url": "https://github.com/langchain-ai/langchain",
+    "page": "project/langchain.html",
+    "image": "https://avatars.githubusercontent.com/u/126733545?v=4"
+  },
+  {
+    "id": "599320067",
+    "title": "langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "language": "Python",
+    "stars": 114989,
+    "url": "https://github.com/langflow-ai/langflow",
+    "page": "project/langflow.html",
+    "image": "https://avatars.githubusercontent.com/u/85702467?v=4"
+  },
+  {
+    "id": "626805178",
+    "title": "dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "language": "TypeScript",
+    "stars": 113586,
+    "url": "https://github.com/langgenius/dify",
+    "page": "project/dify.html",
+    "image": "https://avatars.githubusercontent.com/u/127165244?v=4"
+  },
+  {
+    "id": "701547123",
+    "title": "open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "language": "JavaScript",
+    "stars": 109433,
+    "url": "https://github.com/open-webui/open-webui",
+    "page": "project/open-webui.html",
+    "image": "https://avatars.githubusercontent.com/u/158137808?v=4"
+  },
+  {
+    "id": "655806940",
+    "title": "generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "language": "Jupyter Notebook",
+    "stars": 97552,
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "page": "project/generative-ai-for-beginners.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "214587193",
+    "title": "supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": 88196,
+    "url": "https://github.com/supabase/supabase",
+    "page": "project/supabase.html",
+    "image": "https://avatars.githubusercontent.com/u/54469796?v=4"
+  },
+  {
+    "id": "589831718",
+    "title": "ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars": 88001,
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "page": "project/ComfyUI.html",
+    "image": "https://avatars.githubusercontent.com/u/121283862?v=4"
+  },
+  {
+    "id": "612344730",
+    "title": "NextChat",
+    "description": "\u2728 Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+    "language": "TypeScript",
+    "stars": 85797,
+    "url": "https://github.com/ChatGPTNextWeb/NextChat",
+    "page": "project/NextChat.html",
+    "image": "https://avatars.githubusercontent.com/u/153288546?v=4"
+  },
+  {
+    "id": "943398999",
+    "title": "system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "Unknown",
+    "stars": 82755,
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "page": "project/system-prompts-and-models-of-ai-tools.html",
+    "image": "https://avatars.githubusercontent.com/u/185671340?v=4"
+  },
+  {
+    "id": "145553672",
+    "title": "funNLP",
+    "description": "\u4e2d\u82f1\u6587\u654f\u611f\u8bcd\u3001\u8bed\u8a00\u68c0\u6d4b\u3001\u4e2d\u5916\u624b\u673a/\u7535\u8bdd\u5f52\u5c5e\u5730/\u8fd0\u8425\u5546\u67e5\u8be2\u3001\u540d\u5b57\u63a8\u65ad\u6027\u522b\u3001\u624b\u673a\u53f7\u62bd\u53d6\u3001\u8eab\u4efd\u8bc1\u62bd\u53d6\u3001\u90ae\u7bb1\u62bd\u53d6\u3001\u4e2d\u65e5\u6587\u4eba\u540d\u5e93\u3001\u4e2d\u6587\u7f29\u5199\u5e93\u3001\u62c6\u5b57\u8bcd\u5178\u3001\u8bcd\u6c47\u60c5\u611f\u503c\u3001\u505c\u7528\u8bcd\u3001\u53cd\u52a8\u8bcd\u8868\u3001\u66b4\u6050\u8bcd\u8868\u3001\u7e41\u7b80\u4f53\u8f6c\u6362\u3001\u82f1\u6587\u6a21\u62df\u4e2d\u6587\u53d1\u97f3\u3001\u6c6a\u5cf0\u6b4c\u8bcd\u751f\u6210\u5668\u3001\u804c\u4e1a\u540d\u79f0\u8bcd\u5e93\u3001\u540c\u4e49\u8bcd\u5e93\u3001\u53cd\u4e49\u8bcd\u5e93\u3001\u5426\u5b9a\u8bcd\u5e93\u3001\u6c7d\u8f66\u54c1\u724c\u8bcd\u5e93\u3001\u6c7d\u8f66\u96f6\u4ef6\u8bcd\u5e93\u3001\u8fde\u7eed\u82f1\u6587\u5207\u5272\u3001\u5404\u79cd\u4e2d\u6587\u8bcd\u5411\u91cf\u3001\u516c\u53f8\u540d\u5b57\u5927\u5168\u3001\u53e4\u8bd7\u8bcd\u5e93\u3001IT\u8bcd\u5e93\u3001\u8d22\u7ecf\u8bcd\u5e93\u3001\u6210\u8bed\u8bcd\u5e93\u3001\u5730\u540d\u8bcd\u5e93\u3001\u5386\u53f2\u540d\u4eba\u8bcd\u5e93\u3001\u8bd7\u8bcd\u8bcd\u5e93\u3001\u533b\u5b66\u8bcd\u5e93\u3001\u996e\u98df\u8bcd\u5e93\u3001\u6cd5\u5f8b\u8bcd\u5e93\u3001\u6c7d\u8f66\u8bcd\u5e93\u3001\u52a8\u7269\u8bcd\u5e93\u3001\u4e2d\u6587\u804a\u5929\u8bed\u6599\u3001\u4e2d\u6587\u8c23\u8a00\u6570\u636e\u3001\u767e\u5ea6\u4e2d\u6587\u95ee\u7b54\u6570\u636e\u96c6\u3001\u53e5\u5b50\u76f8\u4f3c\u5ea6\u5339\u914d\u7b97\u6cd5\u96c6\u5408\u3001bert\u8d44\u6e90\u3001\u6587\u672c\u751f\u6210&\u6458\u8981\u76f8\u5173\u5de5\u5177\u3001cocoNLP\u4fe1\u606f\u62bd\u53d6\u5de5\u5177\u3001\u56fd\u5185\u7535\u8bdd\u53f7\u7801\u6b63\u5219\u5339\u914d\u3001\u6e05\u534e\u5927\u5b66XLORE:\u4e2d\u82f1\u6587\u8de8\u8bed\u8a00\u767e\u79d1\u77e5\u8bc6\u56fe\u8c31\u3001\u6e05\u534e\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7cfb\u5217\u62a5\u544a\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210\u3001NLU\u592a\u96be\u4e86\u7cfb\u5217\u3001\u81ea\u52a8\u5bf9\u8054\u6570\u636e\u53ca\u673a\u5668\u4eba\u3001\u7528\u6237\u540d\u9ed1\u540d\u5355\u5217\u8868\u3001\u7f6a\u540d\u6cd5\u52a1\u540d\u8bcd\u53ca\u5206\u7c7b\u6a21\u578b\u3001\u5fae\u4fe1\u516c\u4f17\u53f7\u8bed\u6599\u3001cs224n\u6df1\u5ea6\u5b66\u4e60\u81ea\u7136\u8bed\u8a00\u5904\u7406\u8bfe\u7a0b\u3001\u4e2d\u6587\u624b\u5199\u6c49\u5b57\u8bc6\u522b\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406 \u8bed\u6599/\u6570\u636e\u96c6\u3001\u53d8\u91cf\u547d\u540d\u795e\u5668\u3001\u5206\u8bcd\u8bed\u6599\u5e93+\u4ee3\u7801\u3001\u4efb\u52a1\u578b\u5bf9\u8bdd\u82f1\u6587\u6570\u636e\u96c6\u3001ASR \u8bed\u97f3\u6570\u636e\u96c6 + \u57fa\u4e8e\u6df1\u5ea6\u5b66\u4e60\u7684\u4e2d\u6587\u8bed\u97f3\u8bc6\u522b\u7cfb\u7edf\u3001\u7b11\u58f0\u68c0\u6d4b\u5668\u3001Microsoft\u591a\u8bed\u8a00\u6570\u5b57/\u5355\u4f4d/\u5982\u65e5\u671f\u65f6\u95f4\u8bc6\u522b\u5305\u3001\u4e2d\u534e\u65b0\u534e\u5b57\u5178\u6570\u636e\u5e93\u53caapi(\u5305\u62ec\u5e38\u7528\u6b47\u540e\u8bed\u3001\u6210\u8bed\u3001\u8bcd\u8bed\u548c\u6c49\u5b57)\u3001\u6587\u6863\u56fe\u8c31\u81ea\u52a8\u751f\u6210\u3001SpaCy \u4e2d\u6587\u6a21\u578b\u3001Common Voice\u8bed\u97f3\u8bc6\u522b\u6570\u636e\u96c6\u65b0\u7248\u3001\u795e\u7ecf\u7f51\u7edc\u5173\u7cfb\u62bd\u53d6\u3001\u57fa\u4e8ebert\u7684\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u3001\u5173\u952e\u8bcd(Keyphrase)\u62bd\u53d6\u5305pke\u3001\u57fa\u4e8e\u533b\u7597\u9886\u57df\u77e5\u8bc6\u56fe\u8c31\u7684\u95ee\u7b54\u7cfb\u7edf\u3001\u57fa\u4e8e\u4f9d\u5b58\u53e5\u6cd5\u4e0e\u8bed\u4e49\u89d2\u8272\u6807\u6ce8\u7684\u4e8b\u4ef6\u4e09\u5143\u7ec4\u62bd\u53d6\u3001\u4f9d\u5b58\u53e5\u6cd5\u5206\u67904\u4e07\u53e5\u9ad8\u8d28\u91cf\u6807\u6ce8\u6570\u636e\u3001cnocr\uff1a\u7528\u6765\u505a\u4e2d\u6587OCR\u7684Python3\u5305\u3001\u4e2d\u6587\u4eba\u7269\u5173\u7cfb\u77e5\u8bc6\u56fe\u8c31\u9879\u76ee\u3001\u4e2d\u6587nlp\u7ade\u8d5b\u9879\u76ee\u53ca\u4ee3\u7801\u6c47\u603b\u3001\u4e2d\u6587\u5b57\u7b26\u6570\u636e\u3001speech-aligner: \u4ece\u201c\u4eba\u58f0\u8bed\u97f3\u201d\u53ca\u5176\u201c\u8bed\u8a00\u6587\u672c\u201d\u4ea7\u751f\u97f3\u7d20\u7ea7\u522b\u65f6\u95f4\u5bf9\u9f50\u6807\u6ce8\u7684\u5de5\u5177\u3001AmpliGraph: \u77e5\u8bc6\u56fe\u8c31\u8868\u793a\u5b66\u4e60(Python)\u5e93\uff1a\u77e5\u8bc6\u56fe\u8c31\u6982\u5ff5\u94fe\u63a5\u9884\u6d4b\u3001Scattertext \u6587\u672c\u53ef\u89c6\u5316(python)\u3001\u8bed\u8a00/\u77e5\u8bc6\u8868\u793a\u5de5\u5177\uff1aBERT & ERNIE\u3001\u4e2d\u6587\u5bf9\u6bd4\u82f1\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406NLP\u7684\u533a\u522b\u7efc\u8ff0\u3001Synonyms\u4e2d\u6587\u8fd1\u4e49\u8bcd\u5de5\u5177\u5305\u3001HarvestText\u9886\u57df\u81ea\u9002\u5e94\u6587\u672c\u6316\u6398\u5de5\u5177\uff08\u65b0\u8bcd\u53d1\u73b0-\u60c5\u611f\u5206\u6790-\u5b9e\u4f53\u94fe\u63a5\u7b49\uff09\u3001word2word\uff1a(Python)\u65b9\u4fbf\u6613\u7528\u7684\u591a\u8bed\u8a00\u8bcd-\u8bcd\u5bf9\u96c6\uff1a62\u79cd\u8bed\u8a00/3,564\u4e2a\u591a\u8bed\u8a00\u5bf9\u3001\u8bed\u97f3\u8bc6\u522b\u8bed\u6599\u751f\u6210\u5de5\u5177\uff1a\u4ece\u5177\u6709\u97f3\u9891/\u5b57\u5e55\u7684\u5728\u7ebf\u89c6\u9891\u521b\u5efa\u81ea\u52a8\u8bed\u97f3\u8bc6\u522b(ASR)\u8bed\u6599\u5e93\u3001\u6784\u5efa\u533b\u7597\u5b9e\u4f53\u8bc6\u522b\u7684\u6a21\u578b\uff08\u5305\u542b\u8bcd\u5178\u548c\u8bed\u6599\u6807\u6ce8\uff09\u3001\u5355\u6587\u6863\u975e\u76d1\u7763\u7684\u5173\u952e\u8bcd\u62bd\u53d6\u3001Kashgari\u4e2d\u4f7f\u7528gpt-2\u8bed\u8a00\u6a21\u578b\u3001\u5f00\u6e90\u7684\u91d1\u878d\u6295\u8d44\u6570\u636e\u63d0\u53d6\u5de5\u5177\u3001\u6587\u672c\u81ea\u52a8\u6458\u8981\u5e93TextTeaser: \u4ec5\u652f\u6301\u82f1\u6587\u3001\u4eba\u6c11\u65e5\u62a5\u8bed\u6599\u5904\u7406\u5de5\u5177\u96c6\u3001\u4e00\u4e9b\u5173\u4e8e\u81ea\u7136\u8bed\u8a00\u7684\u57fa\u672c\u6a21\u578b\u3001\u57fa\u4e8e14W\u6b4c\u66f2\u77e5\u8bc6\u5e93\u7684\u95ee\u7b54\u5c1d\u8bd5--\u529f\u80fd\u5305\u62ec\u6b4c\u8bcd\u63a5\u9f99and\u5df2\u77e5\u6b4c\u8bcd\u627e\u6b4c\u66f2\u4ee5\u53ca\u6b4c\u66f2\u6b4c\u624b\u6b4c\u8bcd\u4e09\u89d2\u5173\u7cfb\u7684\u95ee\u7b54\u3001\u57fa\u4e8eSiamese bilstm\u6a21\u578b\u7684\u76f8\u4f3c\u53e5\u5b50\u5224\u5b9a\u6a21\u578b\u5e76\u63d0\u4f9b\u8bad\u7ec3\u6570\u636e\u96c6\u548c\u6d4b\u8bd5\u6570\u636e\u96c6\u3001\u7528Transformer\u7f16\u89e3\u7801\u6a21\u578b\u5b9e\u73b0\u7684\u6839\u636eHacker News\u6587\u7ae0\u6807\u9898\u81ea\u52a8\u751f\u6210\u8bc4\u8bba\u3001\u7528BERT\u8fdb\u884c\u5e8f\u5217\u6807\u8bb0\u548c\u6587\u672c\u5206\u7c7b\u7684\u6a21\u677f\u4ee3\u7801\u3001LitBank\uff1aNLP\u6570\u636e\u96c6\u2014\u2014\u652f\u6301\u81ea\u7136\u8bed\u8a00\u5904\u7406\u548c\u8ba1\u7b97\u4eba\u6587\u5b66\u79d1\u4efb\u52a1\u7684100\u90e8\u5e26\u6807\u8bb0\u82f1\u6587\u5c0f\u8bf4\u8bed\u6599\u3001\u767e\u5ea6\u5f00\u6e90\u7684\u57fa\u51c6\u4fe1\u606f\u62bd\u53d6\u7cfb\u7edf\u3001\u865a\u5047\u65b0\u95fb\u6570\u636e\u96c6\u3001Facebook: LAMA\u8bed\u8a00\u6a21\u578b\u5206\u6790\uff0c\u63d0\u4f9bTransformer-XL/BERT/ELMo/GPT\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u7684\u7edf\u4e00\u8bbf\u95ee\u63a5\u53e3\u3001CommonsenseQA\uff1a\u9762\u5411\u5e38\u8bc6\u7684\u82f1\u6587QA\u6311\u6218\u3001\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u8d44\u6599\u3001\u6570\u636e\u53ca\u5de5\u5177\u3001\u5404\u5927\u516c\u53f8\u5185\u90e8\u91cc\u5927\u725b\u5206\u4eab\u7684\u6280\u672f\u6587\u6863 PDF \u6216\u8005 PPT\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210SQL\u8bed\u53e5\uff08\u82f1\u6587\uff09\u3001\u4e2d\u6587NLP\u6570\u636e\u589e\u5f3a\uff08EDA\uff09\u5de5\u5177\u3001\u82f1\u6587NLP\u6570\u636e\u589e\u5f3a\u5de5\u5177 \u3001\u57fa\u4e8e\u533b\u836f\u77e5\u8bc6\u56fe\u8c31\u7684\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\u3001\u4eac\u4e1c\u5546\u54c1\u77e5\u8bc6\u56fe\u8c31\u3001\u57fa\u4e8emongodb\u5b58\u50a8\u7684\u519b\u4e8b\u9886\u57df\u77e5\u8bc6\u56fe\u8c31\u95ee\u7b54\u9879\u76ee\u3001\u57fa\u4e8e\u8fdc\u76d1\u7763\u7684\u4e2d\u6587\u5173\u7cfb\u62bd\u53d6\u3001\u8bed\u97f3\u60c5\u611f\u5206\u6790\u3001\u4e2d\u6587ULMFiT-\u60c5\u611f\u5206\u6790-\u6587\u672c\u5206\u7c7b-\u8bed\u6599\u53ca\u6a21\u578b\u3001\u4e00\u4e2a\u62cd\u7167\u505a\u9898\u7a0b\u5e8f\u3001\u4e16\u754c\u5404\u56fd\u5927\u89c4\u6a21\u4eba\u540d\u5e93\u3001\u4e00\u4e2a\u5229\u7528\u6709\u8da3\u4e2d\u6587\u8bed\u6599\u5e93 qingyun \u8bad\u7ec3\u51fa\u6765\u7684\u4e2d\u6587\u804a\u5929\u673a\u5668\u4eba\u3001\u4e2d\u6587\u804a\u5929\u673a\u5668\u4ebaseqGAN\u3001\u7701\u5e02\u533a\u9547\u884c\u653f\u533a\u5212\u6570\u636e\u5e26\u62fc\u97f3\u6807\u6ce8\u3001\u6559\u80b2\u884c\u4e1a\u65b0\u95fb\u8bed\u6599\u5e93\u5305\u542b\u81ea\u52a8\u6587\u6458\u529f\u80fd\u3001\u5f00\u653e\u4e86\u5bf9\u8bdd\u673a\u5668\u4eba-\u77e5\u8bc6\u56fe\u8c31-\u8bed\u4e49\u7406\u89e3-\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u53ca\u6570\u636e\u3001\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\uff1a\u57fa\u4e8e\u767e\u5ea6\u767e\u79d1\u4e2d\u6587\u9875\u9762-\u62bd\u53d6\u4e09\u5143\u7ec4\u4fe1\u606f-\u6784\u5efa\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u3001masr: \u4e2d\u6587\u8bed\u97f3\u8bc6\u522b-\u63d0\u4f9b\u9884\u8bad\u7ec3\u6a21\u578b-\u9ad8\u8bc6\u522b\u7387\u3001Python\u97f3\u9891\u6570\u636e\u589e\u5e7f\u5e93\u3001\u4e2d\u6587\u5168\u8bcd\u8986\u76d6BERT\u53ca\u4e24\u4efd\u9605\u8bfb\u7406\u89e3\u6570\u636e\u3001ConvLab\uff1a\u5f00\u6e90\u591a\u57df\u7aef\u5230\u7aef\u5bf9\u8bdd\u7cfb\u7edf\u5e73\u53f0\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u6570\u636e\u96c6\u3001\u57fa\u4e8e\u6700\u65b0\u7248\u672crasa\u642d\u5efa\u7684\u5bf9\u8bdd\u7cfb\u7edf\u3001\u57fa\u4e8eTensorFlow\u548cBERT\u7684\u7ba1\u9053\u5f0f\u5b9e\u4f53\u53ca\u5173\u7cfb\u62bd\u53d6\u3001\u4e00\u4e2a\u5c0f\u578b\u7684\u8bc1\u5238\u77e5\u8bc6\u56fe\u8c31/\u77e5\u8bc6\u5e93\u3001\u590d\u76d8\u6240\u6709NLP\u6bd4\u8d5b\u7684TOP\u65b9\u6848\u3001OpenCLaP\uff1a\u591a\u9886\u57df\u5f00\u6e90\u4e2d\u6587\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u4ed3\u5e93\u3001UER\uff1a\u57fa\u4e8e\u4e0d\u540c\u8bed\u6599+\u7f16\u7801\u5668+\u76ee\u6807\u4efb\u52a1\u7684\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b\u4ed3\u5e93\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5411\u91cf\u5408\u96c6\u3001\u57fa\u4e8e\u91d1\u878d-\u53f8\u6cd5\u9886\u57df(\u517c\u6709\u95f2\u804a\u6027\u8d28)\u7684\u804a\u5929\u673a\u5668\u4eba\u3001g2pC\uff1a\u57fa\u4e8e\u4e0a\u4e0b\u6587\u7684\u6c49\u8bed\u8bfb\u97f3\u81ea\u52a8\u6807\u8bb0\u6a21\u5757\u3001Zincbase \u77e5\u8bc6\u56fe\u8c31\u6784\u5efa\u5de5\u5177\u5305\u3001\u8bd7\u6b4c\u8d28\u91cf\u8bc4\u4ef7/\u7ec6\u7c92\u5ea6\u60c5\u611f\u8bd7\u6b4c\u8bed\u6599\u5e93\u3001\u5feb\u901f\u8f6c\u5316\u300c\u4e2d\u6587\u6570\u5b57\u300d\u548c\u300c\u963f\u62c9\u4f2f\u6570\u5b57\u300d\u3001\u767e\u5ea6\u77e5\u9053\u95ee\u7b54\u8bed\u6599\u5e93\u3001\u57fa\u4e8e\u77e5\u8bc6\u56fe\u8c31\u7684\u95ee\u7b54\u7cfb\u7edf\u3001jieba_fast \u52a0\u901f\u7248\u7684jieba\u3001\u6b63\u5219\u8868\u8fbe\u5f0f\u6559\u7a0b\u3001\u4e2d\u6587\u9605\u8bfb\u7406\u89e3\u6570\u636e\u96c6\u3001\u57fa\u4e8eBERT\u7b49\u6700\u65b0\u8bed\u8a00\u6a21\u578b\u7684\u62bd\u53d6\u5f0f\u6458\u8981\u63d0\u53d6\u3001Python\u5229\u7528\u6df1\u5ea6\u5b66\u4e60\u8fdb\u884c\u6587\u672c\u6458\u8981\u7684\u7efc\u5408\u6307\u5357\u3001\u77e5\u8bc6\u56fe\u8c31\u6df1\u5ea6\u5b66\u4e60\u76f8\u5173\u8d44\u6599\u6574\u7406\u3001\u7ef4\u57fa\u5927\u89c4\u6a21\u5e73\u884c\u6587\u672c\u8bed\u6599\u3001StanfordNLP 0.2.0\uff1a\u7eafPython\u7248\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5305\u3001NeuralNLP-NeuralClassifier\uff1a\u817e\u8baf\u5f00\u6e90\u6df1\u5ea6\u5b66\u4e60\u6587\u672c\u5206\u7c7b\u5de5\u5177\u3001\u7aef\u5230\u7aef\u7684\u5c01\u95ed\u57df\u5bf9\u8bdd\u7cfb\u7edf\u3001\u4e2d\u6587\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\uff1aNeuroNER vs. BertNER\u3001\u65b0\u95fb\u4e8b\u4ef6\u7ebf\u7d22\u62bd\u53d6\u30012019\u5e74\u767e\u5ea6\u7684\u4e09\u5143\u7ec4\u62bd\u53d6\u6bd4\u8d5b\uff1a\u201c\u79d1\u5b66\u7a7a\u95f4\u961f\u201d\u6e90\u7801\u3001\u57fa\u4e8e\u4f9d\u5b58\u53e5\u6cd5\u7684\u5f00\u653e\u57df\u6587\u672c\u77e5\u8bc6\u4e09\u5143\u7ec4\u62bd\u53d6\u548c\u77e5\u8bc6\u5e93\u6784\u5efa\u3001\u4e2d\u6587\u7684GPT2\u8bad\u7ec3\u4ee3\u7801\u3001ML-NLP - \u673a\u5668\u5b66\u4e60(Machine Learning)NLP\u9762\u8bd5\u4e2d\u5e38\u8003\u5230\u7684\u77e5\u8bc6\u70b9\u548c\u4ee3\u7801\u5b9e\u73b0\u3001nlp4han:\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u96c6(\u65ad\u53e5/\u5206\u8bcd/\u8bcd\u6027\u6807\u6ce8/\u7ec4\u5757/\u53e5\u6cd5\u5206\u6790/\u8bed\u4e49\u5206\u6790/NER/N\u5143\u8bed\u6cd5/HMM/\u4ee3\u8bcd\u6d88\u89e3/\u60c5\u611f\u5206\u6790/\u62fc\u5199\u68c0\u67e5\u3001XLM\uff1aFacebook\u7684\u8de8\u8bed\u8a00\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u3001\u7528\u57fa\u4e8eBERT\u7684\u5fae\u8c03\u548c\u7279\u5f81\u63d0\u53d6\u65b9\u6cd5\u6765\u8fdb\u884c\u77e5\u8bc6\u56fe\u8c31\u767e\u5ea6\u767e\u79d1\u4eba\u7269\u8bcd\u6761\u5c5e\u6027\u62bd\u53d6\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u76f8\u5173\u7684\u5f00\u653e\u4efb\u52a1-\u6570\u636e\u96c6-\u5f53\u524d\u6700\u4f73\u7ed3\u679c\u3001CoupletAI - \u57fa\u4e8eCNN+Bi-LSTM+Attention \u7684\u81ea\u52a8\u5bf9\u5bf9\u8054\u7cfb\u7edf\u3001\u62bd\u8c61\u77e5\u8bc6\u56fe\u8c31\u3001MiningZhiDaoQACorpus - 580\u4e07\u767e\u5ea6\u77e5\u9053\u95ee\u7b54\u6570\u636e\u6316\u6398\u9879\u76ee\u3001brat rapid annotation tool: \u5e8f\u5217\u6807\u6ce8\u5de5\u5177\u3001\u5927\u89c4\u6a21\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u6570\u636e\uff1a1.4\u4ebf\u5b9e\u4f53\u3001\u6570\u636e\u589e\u5f3a\u5728\u673a\u5668\u7ffb\u8bd1\u53ca\u5176\u4ed6nlp\u4efb\u52a1\u4e2d\u7684\u5e94\u7528\u53ca\u6548\u679c\u3001allennlp\u9605\u8bfb\u7406\u89e3:\u652f\u6301\u591a\u79cd\u6570\u636e\u548c\u6a21\u578b\u3001PDF\u8868\u683c\u6570\u636e\u63d0\u53d6\u5de5\u5177 \u3001 Graphbrain\uff1aAI\u5f00\u6e90\u8f6f\u4ef6\u5e93\u548c\u79d1\u7814\u5de5\u5177\uff0c\u76ee\u7684\u662f\u4fc3\u8fdb\u81ea\u52a8\u610f\u4e49\u63d0\u53d6\u548c\u6587\u672c\u7406\u89e3\u4ee5\u53ca\u77e5\u8bc6\u7684\u63a2\u7d22\u548c\u63a8\u65ad\u3001\u7b80\u5386\u81ea\u52a8\u7b5b\u9009\u7cfb\u7edf\u3001\u57fa\u4e8e\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u7684\u7b80\u5386\u81ea\u52a8\u6458\u8981\u3001\u4e2d\u6587\u8bed\u8a00\u7406\u89e3\u6d4b\u8bc4\u57fa\u51c6\uff0c\u5305\u62ec\u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6&\u57fa\u51c6\u6a21\u578b&\u8bed\u6599\u5e93&\u6392\u884c\u699c\u3001\u6811\u6d1e OCR \u6587\u5b57\u8bc6\u522b \u3001\u4ece\u5305\u542b\u8868\u683c\u7684\u626b\u63cf\u56fe\u7247\u4e2d\u8bc6\u522b\u8868\u683c\u548c\u6587\u5b57\u3001\u8bed\u58f0\u8fc1\u79fb\u3001Python\u53e3\u8bed\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u96c6(\u82f1\u6587)\u3001 similarity\uff1a\u76f8\u4f3c\u5ea6\u8ba1\u7b97\u5de5\u5177\u5305\uff0cjava\u7f16\u5199\u3001\u6d77\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3ALBERT\u6a21\u578b \u3001Transformers 2.0 \u3001\u57fa\u4e8e\u5927\u89c4\u6a21\u97f3\u9891\u6570\u636e\u96c6Audioset\u7684\u97f3\u9891\u589e\u5f3a \u3001Poplar\uff1a\u7f51\u9875\u7248\u81ea\u7136\u8bed\u8a00\u6807\u6ce8\u5de5\u5177\u3001\u56fe\u7247\u6587\u5b57\u53bb\u9664\uff0c\u53ef\u7528\u4e8e\u6f2b\u753b\u7ffb\u8bd1 \u3001186\u79cd\u8bed\u8a00\u7684\u6570\u5b57\u53eb\u6cd5\u5e93\u3001Amazon\u53d1\u5e03\u57fa\u4e8e\u77e5\u8bc6\u7684\u4eba-\u4eba\u5f00\u653e\u9886\u57df\u5bf9\u8bdd\u6570\u636e\u96c6 \u3001\u4e2d\u6587\u6587\u672c\u7ea0\u9519\u6a21\u5757\u4ee3\u7801\u3001\u7e41\u7b80\u4f53\u8f6c\u6362 \u3001 Python\u5b9e\u73b0\u7684\u591a\u79cd\u6587\u672c\u53ef\u8bfb\u6027\u8bc4\u4ef7\u6307\u6807\u3001\u7c7b\u4f3c\u4e8e\u4eba\u540d/\u5730\u540d/\u7ec4\u7ec7\u673a\u6784\u540d\u7684\u547d\u540d\u4f53\u8bc6\u522b\u6570\u636e\u96c6 \u3001\u4e1c\u5357\u5927\u5b66\u300a\u77e5\u8bc6\u56fe\u8c31\u300b\u7814\u7a76\u751f\u8bfe\u7a0b(\u8d44\u6599)\u3001. \u82f1\u6587\u62fc\u5199\u68c0\u67e5\u5e93 \u3001 wwsearch\u662f\u4f01\u4e1a\u5fae\u4fe1\u540e\u53f0\u81ea\u7814\u7684\u5168\u6587\u68c0\u7d22\u5f15\u64ce\u3001CHAMELEON\uff1a\u6df1\u5ea6\u5b66\u4e60\u65b0\u95fb\u63a8\u8350\u7cfb\u7edf\u5143\u67b6\u6784 \u3001 8\u7bc7\u8bba\u6587\u68b3\u7406BERT\u76f8\u5173\u6a21\u578b\u8fdb\u5c55\u4e0e\u53cd\u601d\u3001DocSearch\uff1a\u514d\u8d39\u6587\u6863\u641c\u7d22\u5f15\u64ce\u3001 LIDA\uff1a\u8f7b\u91cf\u4ea4\u4e92\u5f0f\u5bf9\u8bdd\u6807\u6ce8\u5de5\u5177 \u3001aili - the fastest in-memory index in the East \u4e1c\u534a\u7403\u6700\u5feb\u5e76\u53d1\u7d22\u5f15 \u3001\u77e5\u8bc6\u56fe\u8c31\u8f66\u97f3\u5de5\u4f5c\u9879\u76ee\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210\u8d44\u6e90\u5927\u5168 \u3001\u4e2d\u65e5\u97e9\u5206\u8bcd\u5e93mecab\u7684Python\u63a5\u53e3\u5e93\u3001\u4e2d\u6587\u6587\u672c\u6458\u8981/\u5173\u952e\u8bcd\u63d0\u53d6\u3001\u6c49\u5b57\u5b57\u7b26\u7279\u5f81\u63d0\u53d6\u5668 (featurizer)\uff0c\u63d0\u53d6\u6c49\u5b57\u7684\u7279\u5f81\uff08\u53d1\u97f3\u7279\u5f81\u3001\u5b57\u5f62\u7279\u5f81\uff09\u7528\u505a\u6df1\u5ea6\u5b66\u4e60\u7684\u7279\u5f81\u3001\u4e2d\u6587\u751f\u6210\u4efb\u52a1\u57fa\u51c6\u6d4b\u8bc4 \u3001\u4e2d\u6587\u7f29\u5199\u6570\u636e\u96c6\u3001\u4e2d\u6587\u4efb\u52a1\u57fa\u51c6\u6d4b\u8bc4 - \u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6-\u57fa\u51c6(\u9884\u8bad\u7ec3)\u6a21\u578b-\u8bed\u6599\u5e93-baseline-\u5de5\u5177\u5305-\u6392\u884c\u699c\u3001PySS3\uff1a\u9762\u5411\u53ef\u89e3\u91caAI\u7684SS3\u6587\u672c\u5206\u7c7b\u5668\u673a\u5668\u53ef\u89c6\u5316\u5de5\u5177 \u3001\u4e2d\u6587NLP\u6570\u636e\u96c6\u5217\u8868\u3001COPE - \u683c\u5f8b\u8bd7\u7f16\u8f91\u7a0b\u5e8f\u3001doccano\uff1a\u57fa\u4e8e\u7f51\u9875\u7684\u5f00\u6e90\u534f\u540c\u591a\u8bed\u8a00\u6587\u672c\u6807\u6ce8\u5de5\u5177 \u3001PreNLP\uff1a\u81ea\u7136\u8bed\u8a00\u9884\u5904\u7406\u5e93\u3001\u7b80\u5355\u7684\u7b80\u5386\u89e3\u6790\u5668\uff0c\u7528\u6765\u4ece\u7b80\u5386\u4e2d\u63d0\u53d6\u5173\u952e\u4fe1\u606f\u3001\u7528\u4e8e\u4e2d\u6587\u95f2\u804a\u7684GPT2\u6a21\u578b\uff1aGPT2-chitchat\u3001\u57fa\u4e8e\u68c0\u7d22\u804a\u5929\u673a\u5668\u4eba\u591a\u8f6e\u54cd\u5e94\u9009\u62e9\u76f8\u5173\u8d44\u6e90\u5217\u8868(Leaderboards\u3001Datasets\u3001Papers)\u3001(Colab)\u62bd\u8c61\u6587\u672c\u6458\u8981\u5b9e\u73b0\u96c6\u9526(\u6559\u7a0b \u3001\u8bcd\u8bed\u62fc\u97f3\u6570\u636e\u3001\u9ad8\u6548\u6a21\u7cca\u641c\u7d22\u5de5\u5177\u3001NLP\u6570\u636e\u589e\u5e7f\u8d44\u6e90\u96c6\u3001\u5fae\u8f6f\u5bf9\u8bdd\u673a\u5668\u4eba\u6846\u67b6 \u3001 GitHub Typo Corpus\uff1a\u5927\u89c4\u6a21GitHub\u591a\u8bed\u8a00\u62fc\u5199\u9519\u8bef/\u8bed\u6cd5\u9519\u8bef\u6570\u636e\u96c6\u3001TextCluster\uff1a\u77ed\u6587\u672c\u805a\u7c7b\u9884\u5904\u7406\u6a21\u5757 Short text cluster\u3001\u9762\u5411\u8bed\u97f3\u8bc6\u522b\u7684\u4e2d\u6587\u6587\u672c\u89c4\u8303\u5316\u3001BLINK\uff1a\u6700\u5148\u8fdb\u7684\u5b9e\u4f53\u94fe\u63a5\u5e93\u3001BertPunc\uff1a\u57fa\u4e8eBERT\u7684\u6700\u5148\u8fdb\u6807\u70b9\u4fee\u590d\u6a21\u578b\u3001Tokenizer\uff1a\u5feb\u901f\u3001\u53ef\u5b9a\u5236\u7684\u6587\u672c\u8bcd\u6761\u5316\u5e93\u3001\u4e2d\u6587\u8bed\u8a00\u7406\u89e3\u6d4b\u8bc4\u57fa\u51c6\uff0c\u5305\u62ec\u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6\u3001\u57fa\u51c6(\u9884\u8bad\u7ec3)\u6a21\u578b\u3001\u8bed\u6599\u5e93\u3001\u6392\u884c\u699c\u3001spaCy \u533b\u5b66\u6587\u672c\u6316\u6398\u4e0e\u4fe1\u606f\u63d0\u53d6 \u3001 NLP\u4efb\u52a1\u793a\u4f8b\u9879\u76ee\u4ee3\u7801\u96c6\u3001 python\u62fc\u5199\u68c0\u67e5\u5e93\u3001chatbot-list - \u884c\u4e1a\u5185\u5173\u4e8e\u667a\u80fd\u5ba2\u670d\u3001\u804a\u5929\u673a\u5668\u4eba\u7684\u5e94\u7528\u548c\u67b6\u6784\u3001\u7b97\u6cd5\u5206\u4eab\u548c\u4ecb\u7ecd\u3001\u8bed\u97f3\u8d28\u91cf\u8bc4\u4ef7\u6307\u6807(MOSNet, BSSEval, STOI, PESQ, SRMR)\u3001 \u7528138GB\u8bed\u6599\u8bad\u7ec3\u7684\u6cd5\u6587RoBERTa\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b \u3001BERT-NER-Pytorch\uff1a\u4e09\u79cd\u4e0d\u540c\u6a21\u5f0f\u7684BERT\u4e2d\u6587NER\u5b9e\u9a8c\u3001\u65e0\u9053\u8bcd\u5178 - \u6709\u9053\u8bcd\u5178\u7684\u547d\u4ee4\u884c\u7248\u672c\uff0c\u652f\u6301\u82f1\u6c49\u4e92\u67e5\u548c\u5728\u7ebf\u67e5\u8be2\u30012019\u5e74NLP\u4eae\u70b9\u56de\u987e\u3001 Chinese medical dialogue data \u4e2d\u6587\u533b\u7597\u5bf9\u8bdd\u6570\u636e\u96c6 \u3001\u6700\u597d\u7684\u6c49\u5b57\u6570\u5b57(\u4e2d\u6587\u6570\u5b57)-\u963f\u62c9\u4f2f\u6570\u5b57\u8f6c\u6362\u5de5\u5177\u3001 \u57fa\u4e8e\u767e\u79d1\u77e5\u8bc6\u5e93\u7684\u4e2d\u6587\u8bcd\u8bed\u591a\u8bcd\u4e49/\u4e49\u9879\u83b7\u53d6\u4e0e\u7279\u5b9a\u53e5\u5b50\u8bcd\u8bed\u8bed\u4e49\u6d88\u6b67\u3001awesome-nlp-sentiment-analysis - \u60c5\u611f\u5206\u6790\u3001\u60c5\u7eea\u539f\u56e0\u8bc6\u522b\u3001\u8bc4\u4ef7\u5bf9\u8c61\u548c\u8bc4\u4ef7\u8bcd\u62bd\u53d6\u3001LineFlow\uff1a\u9762\u5411\u6240\u6709\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6\u7684NLP\u6570\u636e\u9ad8\u6548\u52a0\u8f7d\u5668\u3001\u4e2d\u6587\u533b\u5b66NLP\u516c\u5f00\u8d44\u6e90\u6574\u7406 \u3001MedQuAD\uff1a(\u82f1\u6587)\u533b\u5b66\u95ee\u7b54\u6570\u636e\u96c6\u3001\u5c06\u81ea\u7136\u8bed\u8a00\u6570\u5b57\u4e32\u89e3\u6790\u8f6c\u6362\u4e3a\u6574\u6570\u548c\u6d6e\u70b9\u6570\u3001Transfer Learning in Natural Language Processing (NLP) \u3001\u9762\u5411\u8bed\u97f3\u8bc6\u522b\u7684\u4e2d\u6587/\u82f1\u6587\u53d1\u97f3\u8f9e\u5178\u3001Tokenizers\uff1a\u6ce8\u91cd\u6027\u80fd\u4e0e\u591a\u529f\u80fd\u6027\u7684\u6700\u5148\u8fdb\u5206\u8bcd\u5668\u3001CLUENER \u7ec6\u7c92\u5ea6\u547d\u540d\u5b9e\u4f53\u8bc6\u522b Fine Grained Named Entity Recognition\u3001 \u57fa\u4e8eBERT\u7684\u4e2d\u6587\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u3001\u4e2d\u6587\u8c23\u8a00\u6570\u636e\u5e93\u3001NLP\u6570\u636e\u96c6/\u57fa\u51c6\u4efb\u52a1\u5927\u5217\u8868\u3001nlp\u76f8\u5173\u7684\u4e00\u4e9b\u8bba\u6587\u53ca\u4ee3\u7801, \u5305\u62ec\u4e3b\u9898\u6a21\u578b\u3001\u8bcd\u5411\u91cf(Word Embedding)\u3001\u547d\u540d\u5b9e\u4f53\u8bc6\u522b(NER)\u3001\u6587\u672c\u5206\u7c7b(Text Classificatin)\u3001\u6587\u672c\u751f\u6210(Text Generation)\u3001\u6587\u672c\u76f8\u4f3c\u6027(Text Similarity)\u8ba1\u7b97\u7b49\uff0c\u6d89\u53ca\u5230\u5404\u79cd\u4e0enlp\u76f8\u5173\u7684\u7b97\u6cd5\uff0c\u57fa\u4e8ekeras\u548ctensorflow \u3001Python\u6587\u672c\u6316\u6398/NLP\u5b9e\u6218\u793a\u4f8b\u3001 Blackstone\uff1a\u9762\u5411\u975e\u7ed3\u6784\u5316\u6cd5\u5f8b\u6587\u672c\u7684spaCy pipeline\u548cNLP\u6a21\u578b\u901a\u8fc7\u540c\u4e49\u8bcd\u66ff\u6362\u5b9e\u73b0\u6587\u672c\u201c\u53d8\u8138\u201d \u3001\u4e2d\u6587 \u9884\u8bad\u7ec3 ELECTREA \u6a21\u578b: \u57fa\u4e8e\u5bf9\u6297\u5b66\u4e60 pretrain Chinese Model \u3001albert-chinese-ner - \u7528\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578bALBERT\u505a\u4e2d\u6587NER \u3001\u57fa\u4e8eGPT2\u7684\u7279\u5b9a\u4e3b\u9898\u6587\u672c\u751f\u6210/\u6587\u672c\u589e\u5e7f\u3001\u5f00\u6e90\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u5408\u96c6\u3001\u591a\u8bed\u8a00\u53e5\u5411\u91cf\u5305\u3001\u7f16\u7801\u3001\u6807\u8bb0\u548c\u5b9e\u73b0\uff1a\u4e00\u79cd\u53ef\u63a7\u9ad8\u6548\u7684\u6587\u672c\u751f\u6210\u65b9\u6cd5\u3001 \u82f1\u6587\u810f\u8bdd\u5927\u5217\u8868 \u3001attnvis\uff1aGPT2\u3001BERT\u7b49transformer\u8bed\u8a00\u6a21\u578b\u6ce8\u610f\u529b\u4ea4\u4e92\u53ef\u89c6\u5316\u3001CoVoST\uff1aFacebook\u53d1\u5e03\u7684\u591a\u8bed\u79cd\u8bed\u97f3-\u6587\u672c\u7ffb\u8bd1\u8bed\u6599\u5e93\uff0c\u5305\u62ec11\u79cd\u8bed\u8a00(\u6cd5\u8bed\u3001\u5fb7\u8bed\u3001\u8377\u5170\u8bed\u3001\u4fc4\u8bed\u3001\u897f\u73ed\u7259\u8bed\u3001\u610f\u5927\u5229\u8bed\u3001\u571f\u8033\u5176\u8bed\u3001\u6ce2\u65af\u8bed\u3001\u745e\u5178\u8bed\u3001\u8499\u53e4\u8bed\u548c\u4e2d\u6587)\u7684\u8bed\u97f3\u3001\u6587\u5b57\u8f6c\u5f55\u53ca\u82f1\u6587\u8bd1\u6587\u3001Jiagu\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177 - \u4ee5BiLSTM\u7b49\u6a21\u578b\u4e3a\u57fa\u7840\uff0c\u63d0\u4f9b\u77e5\u8bc6\u56fe\u8c31\u5173\u7cfb\u62bd\u53d6 \u4e2d\u6587\u5206\u8bcd \u8bcd\u6027\u6807\u6ce8 \u547d\u540d\u5b9e\u4f53\u8bc6\u522b \u60c5\u611f\u5206\u6790 \u65b0\u8bcd\u53d1\u73b0 \u5173\u952e\u8bcd \u6587\u672c\u6458\u8981 \u6587\u672c\u805a\u7c7b\u7b49\u529f\u80fd\u3001\u7528unet\u5b9e\u73b0\u5bf9\u6587\u6863\u8868\u683c\u7684\u81ea\u52a8\u68c0\u6d4b\uff0c\u8868\u683c\u91cd\u5efa\u3001NLP\u4e8b\u4ef6\u63d0\u53d6\u6587\u732e\u8d44\u6e90\u5217\u8868 \u3001 \u91d1\u878d\u9886\u57df\u81ea\u7136\u8bed\u8a00\u5904\u7406\u7814\u7a76\u8d44\u6e90\u5927\u5217\u8868\u3001CLUEDatasetSearch - \u4e2d\u82f1\u6587NLP\u6570\u636e\u96c6\uff1a\u641c\u7d22\u6240\u6709\u4e2d\u6587NLP\u6570\u636e\u96c6\uff0c\u9644\u5e38\u7528\u82f1\u6587NLP\u6570\u636e\u96c6 \u3001medical_NER - \u4e2d\u6587\u533b\u5b66\u77e5\u8bc6\u56fe\u8c31\u547d\u540d\u5b9e\u4f53\u8bc6\u522b \u3001(\u54c8\u4f5b)\u8bb2\u56e0\u679c\u63a8\u7406\u7684\u514d\u8d39\u4e66\u3001\u77e5\u8bc6\u56fe\u8c31\u76f8\u5173\u5b66\u4e60\u8d44\u6599/\u6570\u636e\u96c6/\u5de5\u5177\u8d44\u6e90\u5927\u5217\u8868\u3001Forte\uff1a\u7075\u6d3b\u5f3a\u5927\u7684\u81ea\u7136\u8bed\u8a00\u5904\u7406pipeline\u5de5\u5177\u96c6 \u3001Python\u5b57\u7b26\u4e32\u76f8\u4f3c\u6027\u7b97\u6cd5\u5e93\u3001PyLaia\uff1a\u9762\u5411\u624b\u5199\u6587\u6863\u5206\u6790\u7684\u6df1\u5ea6\u5b66\u4e60\u5de5\u5177\u5305\u3001TextFooler\uff1a\u9488\u5bf9\u6587\u672c\u5206\u7c7b/\u63a8\u7406\u7684\u5bf9\u6297\u6587\u672c\u751f\u6210\u6a21\u5757\u3001Haystack\uff1a\u7075\u6d3b\u3001\u5f3a\u5927\u7684\u53ef\u6269\u5c55\u95ee\u7b54(QA)\u6846\u67b6\u3001\u4e2d\u6587\u5173\u952e\u77ed\u8bed\u62bd\u53d6\u5de5\u5177",
+    "language": "Python",
+    "stars": 75920,
+    "url": "https://github.com/fighting41love/funNLP",
+    "page": "project/funNLP.html",
+    "image": "https://avatars.githubusercontent.com/u/11475294?v=4"
+  },
+  {
+    "id": "10744183",
+    "title": "netdata",
+    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "language": "C",
+    "stars": 75808,
+    "url": "https://github.com/netdata/netdata",
+    "page": "project/netdata.html",
+    "image": "https://avatars.githubusercontent.com/u/43390781?v=4"
+  },
+  {
+    "id": "968197216",
+    "title": "gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "language": "TypeScript",
+    "stars": 74448,
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "page": "project/gemini-cli.html",
+    "image": "https://avatars.githubusercontent.com/u/161781182?v=4"
+  },
+  {
+    "id": "695864515",
+    "title": "Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": 73065,
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "page": "project/Deep-Live-Cam.html",
+    "image": "https://avatars.githubusercontent.com/u/1267200?v=4"
+  },
+  {
+    "id": "669879380",
+    "title": "LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": 69630,
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "page": "project/LLMs-from-scratch.html",
+    "image": "https://avatars.githubusercontent.com/u/5618407?v=4"
+  },
+  {
+    "id": "881458615",
+    "title": "browser-use",
+    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "language": "Python",
+    "stars": 69548,
+    "url": "https://github.com/browser-use/browser-use",
+    "page": "project/browser-use.html",
+    "image": "https://avatars.githubusercontent.com/u/192012301?v=4"
+  },
+  {
+    "id": "896335270",
+    "title": "awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": "Unknown",
+    "stars": 69137,
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "page": "project/awesome-mcp-servers.html",
+    "image": "https://avatars.githubusercontent.com/u/108313943?v=4"
+  },
+  {
+    "id": "793375104",
+    "title": "awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": 67186,
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "page": "project/awesome-llm-apps.html",
+    "image": "https://avatars.githubusercontent.com/u/31396011?v=4"
+  },
+  {
+    "id": "643445235",
+    "title": "lobe-chat",
+    "description": "\ud83e\udd2f Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+    "language": "TypeScript",
+    "stars": 65379,
+    "url": "https://github.com/lobehub/lobe-chat",
+    "page": "project/lobe-chat.html",
+    "image": "https://avatars.githubusercontent.com/u/131470832?v=4"
+  },
+  {
+    "id": "377496562",
+    "title": "AppFlowy",
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "language": "Dart",
+    "stars": 65340,
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "page": "project/AppFlowy.html",
+    "image": "https://avatars.githubusercontent.com/u/86002201?v=4"
+  },
+  {
+    "id": "730534580",
+    "title": "ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "language": "TypeScript",
+    "stars": 63957,
+    "url": "https://github.com/infiniflow/ragflow",
+    "page": "project/ragflow.html",
+    "image": "https://avatars.githubusercontent.com/u/69962740?v=4"
+  },
+  {
+    "id": "660551251",
+    "title": "MetaGPT",
+    "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "language": "Python",
+    "stars": 58331,
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "page": "project/MetaGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/198047230?v=4"
+  },
+  {
+    "id": "646410686",
+    "title": "LLaMA-Factory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "language": "Python",
+    "stars": 57783,
+    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "page": "project/LLaMA-Factory.html",
+    "image": "https://avatars.githubusercontent.com/u/16256802?v=4"
+  },
+  {
+    "id": "787076358",
+    "title": "firecrawl",
+    "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25",
+    "language": "TypeScript",
+    "stars": 56107,
+    "url": "https://github.com/firecrawl/firecrawl",
+    "page": "project/firecrawl.html",
+    "image": "https://avatars.githubusercontent.com/u/135057108?v=4"
+  },
+  {
+    "id": "634224458",
+    "title": "gpt-engineer",
+    "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+    "language": "Python",
+    "stars": 54848,
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "page": "project/gpt-engineer.html",
+    "image": "https://avatars.githubusercontent.com/u/4467025?v=4"
+  },
+  {
+    "id": "575340621",
+    "title": "ChatGPT",
+    "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "language": "Rust",
+    "stars": 54080,
+    "url": "https://github.com/lencx/ChatGPT",
+    "page": "project/ChatGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/16164244?v=4"
+  },
+  {
+    "id": "130688011",
+    "title": "meilisearch",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "language": "Rust",
+    "stars": 53111,
+    "url": "https://github.com/meilisearch/meilisearch",
+    "page": "project/meilisearch.html",
+    "image": "https://avatars.githubusercontent.com/u/43250847?v=4"
+  },
+  {
+    "id": "798201435",
+    "title": "crawl4ai",
+    "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars": 52379,
+    "url": "https://github.com/unclecode/crawl4ai",
+    "page": "project/crawl4ai.html",
+    "image": "https://avatars.githubusercontent.com/u/12494079?v=4"
+  },
+  {
+    "id": "323048702",
+    "title": "OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "language": "Python",
+    "stars": 52107,
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "page": "project/OpenBB.html",
+    "image": "https://avatars.githubusercontent.com/u/80064875?v=4"
+  },
+  {
+    "id": "680120071",
+    "title": "autogen",
+    "description": "A programming framework for agentic AI \ud83e\udd16 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour",
+    "language": "Python",
+    "stars": 49621,
+    "url": "https://github.com/microsoft/autogen",
+    "page": "project/autogen.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "649170660",
+    "title": "anything-llm",
+    "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
+    "language": "JavaScript",
+    "stars": 48831,
+    "url": "https://github.com/Mintplex-Labs/anything-llm",
+    "page": "project/anything-llm.html",
+    "image": "https://avatars.githubusercontent.com/u/134426827?v=4"
+  },
+  {
+    "id": "725205304",
+    "title": "unsloth",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. \ud83e\udda5 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.",
+    "language": "Python",
+    "stars": 45295,
+    "url": "https://github.com/unslothai/unsloth",
+    "page": "project/unsloth.html",
+    "image": "https://avatars.githubusercontent.com/u/150920049?v=4"
+  },
+  {
+    "id": "44662669",
+    "title": "dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "language": "Java",
+    "stars": 45289,
+    "url": "https://github.com/dbeaver/dbeaver",
+    "page": "project/dbeaver.html",
+    "image": "https://avatars.githubusercontent.com/u/34743864?v=4"
+  },
+  {
+    "id": "580642043",
+    "title": "text-generation-webui",
+    "description": "The definitive Web UI for local AI, with powerful features and easy setup.",
+    "language": "Python",
+    "stars": 44916,
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "page": "project/text-generation-webui.html",
+    "image": "https://avatars.githubusercontent.com/u/112222186?v=4"
+  },
+  {
+    "id": "159152904",
+    "title": "JeecgBoot",
+    "description": "\ud83d\udd25AI\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u52a9\u529b\u4f01\u4e1a\u5feb\u901f\u5b9e\u73b0\u4f4e\u4ee3\u7801\u5f00\u53d1\u548c\u6784\u5efaAI\u5e94\u7528\uff01\u524d\u540e\u7aef\u5206\u79bb\u67b6\u6784 SpringBoot3\uff0cSpringCloud\u3001Mybatis\uff0cAnt Design&Vue3\u3001TS+vite\uff01\u5f3a\u5927\u4ee3\u7801\u751f\u6210\u5668\u5b9e\u73b0\u524d\u540e\u7aef\u4e00\u952e\u751f\u6210\uff0c\u65e0\u9700\u624b\u5199\u4ee3\u7801! \u5f15\u9886AI\u4f4e\u4ee3\u7801\u5f00\u53d1\u6a21\u5f0f\uff1aAI\u751f\u6210\u2192\u5728\u7ebf\u7f16\u7801\u2192\u4ee3\u7801\u751f\u6210\u2192\u624b\u5de5\u5408\u5e76\uff0c\u89e3\u51b3Java\u9879\u76ee80%\u91cd\u590d\u5de5\u4f5c\uff0c\u63d0\u5347\u6548\u7387\uff0c\u8282\u7701\u6210\u672c\uff0c\u517c\u987e\u7075\u6d3b\u6027~",
+    "language": "Java",
+    "stars": 43822,
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "page": "project/JeecgBoot.html",
+    "image": "https://avatars.githubusercontent.com/u/86360035?v=4"
+  },
+  {
+    "id": "621803253",
+    "title": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "language": "TypeScript",
+    "stars": 43466,
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "page": "project/Flowise.html",
+    "image": "https://avatars.githubusercontent.com/u/128289781?v=4"
+  },
+  {
+    "id": "60246359",
+    "title": "ClickHouse",
+    "description": "ClickHouse\u00ae is a real-time analytics database management system",
+    "language": "C++",
+    "stars": 42784,
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "page": "project/ClickHouse.html",
+    "image": "https://avatars.githubusercontent.com/u/54801242?v=4"
+  },
+  {
+    "id": "33884891",
+    "title": "airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "language": "Python",
+    "stars": 42253,
+    "url": "https://github.com/apache/airflow",
+    "page": "project/airflow.html",
+    "image": "https://avatars.githubusercontent.com/u/47359?v=4"
+  },
+  {
+    "id": "163591278",
+    "title": "GitHubDaily",
+    "description": "\u575a\u6301\u5206\u4eab GitHub \u4e0a\u9ad8\u8d28\u91cf\u3001\u6709\u8da3\u5b9e\u7528\u7684\u5f00\u6e90\u6280\u672f\u6559\u7a0b\u3001\u5f00\u53d1\u8005\u5de5\u5177\u3001\u7f16\u7a0b\u7f51\u7ad9\u3001\u6280\u672f\u8d44\u8baf\u3002A list cool, interesting projects of GitHub.",
+    "language": "Unknown",
+    "stars": 41887,
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "page": "project/GitHubDaily.html",
+    "image": "https://avatars.githubusercontent.com/u/46262515?v=4"
+  },
+  {
+    "id": "26783295",
+    "title": "kong",
+    "description": "\ud83e\udd8d The Cloud-Native API Gateway and AI Gateway.",
+    "language": "Lua",
+    "stars": 41725,
+    "url": "https://github.com/Kong/kong",
+    "page": "project/kong.html",
+    "image": "https://avatars.githubusercontent.com/u/962416?v=4"
+  },
+  {
+    "id": "83119431",
+    "title": "ailearning",
+    "description": "AiLearning\uff1a\u6570\u636e\u5206\u6790+\u673a\u5668\u5b66\u4e60\u5b9e\u6218+\u7ebf\u6027\u4ee3\u6570+PyTorch+NLTK+TF2",
+    "language": "Python",
+    "stars": 41401,
+    "url": "https://github.com/apachecn/ailearning",
+    "page": "project/ailearning.html",
+    "image": "https://avatars.githubusercontent.com/u/24802038?v=4"
+  },
+  {
+    "id": "422274596",
+    "title": "ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "language": "Python",
+    "stars": 41147,
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "page": "project/ColossalAI.html",
+    "image": "https://avatars.githubusercontent.com/u/88699314?v=4"
+  },
+  {
+    "id": "344190478",
+    "title": "AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "stars": 40059,
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "page": "project/AI-For-Beginners.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "896144595",
+    "title": "ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": 39950,
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "page": "project/ai-hedge-fund.html",
+    "image": "https://avatars.githubusercontent.com/u/901795?v=4"
+  },
+  {
+    "id": "770153867",
+    "title": "MoneyPrinterTurbo",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": 39797,
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "page": "project/MoneyPrinterTurbo.html",
+    "image": "https://avatars.githubusercontent.com/u/4928832?v=4"
+  },
+  {
+    "id": "519577891",
+    "title": "upscayl",
+    "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "language": "TypeScript",
+    "stars": 39622,
+    "url": "https://github.com/upscayl/upscayl",
+    "page": "project/upscayl.html",
+    "image": "https://avatars.githubusercontent.com/u/112148288?v=4"
+  },
+  {
+    "id": "656099147",
+    "title": "mem0",
+    "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
+    "language": "Python",
+    "stars": 39583,
+    "url": "https://github.com/mem0ai/mem0",
+    "page": "project/mem0.html",
+    "image": "https://avatars.githubusercontent.com/u/137054526?v=4"
+  },
+  {
+    "id": "522158088",
+    "title": "chatgpt-on-wechat",
+    "description": "\u57fa\u4e8e\u5927\u6a21\u578b\u642d\u5efa\u7684\u804a\u5929\u673a\u5668\u4eba\uff0c\u540c\u65f6\u652f\u6301 \u5fae\u4fe1\u516c\u4f17\u53f7\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u3001\u98de\u4e66\u3001\u9489\u9489 \u7b49\u63a5\u5165\uff0c\u53ef\u9009\u62e9ChatGPT/Claude/DeepSeek/\u6587\u5fc3\u4e00\u8a00/\u8baf\u98de\u661f\u706b/\u901a\u4e49\u5343\u95ee/ Gemini/GLM-4/Kimi/LinkAI\uff0c\u80fd\u5904\u7406\u6587\u672c\u3001\u8bed\u97f3\u548c\u56fe\u7247\uff0c\u8bbf\u95ee\u64cd\u4f5c\u7cfb\u7edf\u548c\u4e92\u8054\u7f51\uff0c\u652f\u6301\u57fa\u4e8e\u81ea\u6709\u77e5\u8bc6\u5e93\u8fdb\u884c\u5b9a\u5236\u4f01\u4e1a\u667a\u80fd\u5ba2\u670d\u3002",
+    "language": "Python",
+    "stars": 38951,
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "page": "project/chatgpt-on-wechat.html",
+    "image": "https://avatars.githubusercontent.com/u/26161723?v=4"
+  },
+  {
+    "id": "71932349",
+    "title": "ray",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "language": "Python",
+    "stars": 38869,
+    "url": "https://github.com/ray-project/ray",
+    "page": "project/ray.html",
+    "image": "https://avatars.githubusercontent.com/u/22125274?v=4"
+  },
+  {
+    "id": "640079149",
+    "title": "quivr",
+    "description": "Opiniated RAG for integrating GenAI in your apps \ud83e\udde0   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+    "language": "Python",
+    "stars": 38412,
+    "url": "https://github.com/QuivrHQ/quivr",
+    "page": "project/quivr.html",
+    "image": "https://avatars.githubusercontent.com/u/159330290?v=4"
+  },
+  {
+    "id": "668195240",
+    "title": "llm-app",
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "language": "Jupyter Notebook",
+    "stars": 38359,
+    "url": "https://github.com/pathwaycom/llm-app",
+    "page": "project/llm-app.html",
+    "image": "https://avatars.githubusercontent.com/u/25750857?v=4"
+  },
+  {
+    "id": "119160553",
+    "title": "photoprism",
+    "description": "AI-Powered Photos App for the Decentralized Web \ud83c\udf08\ud83d\udc8e\u2728",
+    "language": "Go",
+    "stars": 38313,
+    "url": "https://github.com/photoprism/photoprism",
+    "page": "project/photoprism.html",
+    "image": "https://avatars.githubusercontent.com/u/32436079?v=4"
+  },
+  {
+    "id": "826168160",
+    "title": "docling",
+    "description": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": 38288,
+    "url": "https://github.com/docling-project/docling",
+    "page": "project/docling.html",
+    "image": "https://avatars.githubusercontent.com/u/188446108?v=4"
+  },
+  {
+    "id": "710601088",
+    "title": "crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "language": "Python",
+    "stars": 37931,
+    "url": "https://github.com/crewAIInc/crewAI",
+    "page": "project/crewAI.html",
+    "image": "https://avatars.githubusercontent.com/u/170677839?v=4"
+  },
+  {
+    "id": "577603990",
+    "title": "Open-Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "language": "Python",
+    "stars": 37461,
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "page": "project/Open-Assistant.html",
+    "image": "https://avatars.githubusercontent.com/u/92627801?v=4"
+  },
+  {
+    "id": "895508656",
+    "title": "ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": 37336,
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "page": "project/ai-agents-for-beginners.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "638629097",
+    "title": "aider",
+    "description": "aider is AI pair programming in your terminal",
+    "language": "Python",
+    "stars": 37330,
+    "url": "https://github.com/Aider-AI/aider",
+    "page": "project/aider.html",
+    "image": "https://avatars.githubusercontent.com/u/172139148?v=4"
+  },
+  {
+    "id": "393571599",
+    "title": "MockingBird",
+    "description": "\ud83d\ude80AI\u62df\u58f0: 5\u79d2\u5185\u514b\u9686\u60a8\u7684\u58f0\u97f3\u5e76\u751f\u6210\u4efb\u610f\u8bed\u97f3\u5185\u5bb9 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "stars": 36617,
+    "url": "https://github.com/babysor/MockingBird",
+    "page": "project/MockingBird.html",
+    "image": "https://avatars.githubusercontent.com/u/7423248?v=4"
+  },
+  {
+    "id": "610260322",
+    "title": "chatbox",
+    "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+    "language": "TypeScript",
+    "stars": 36518,
+    "url": "https://github.com/chatboxai/chatbox",
+    "page": "project/chatbox.html",
+    "image": "https://avatars.githubusercontent.com/u/199570308?v=4"
+  },
+  {
+    "id": "352933140",
+    "title": "ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+    "language": "JavaScript",
+    "stars": 36436,
+    "url": "https://github.com/ToolJet/ToolJet",
+    "page": "project/ToolJet.html",
+    "image": "https://avatars.githubusercontent.com/u/82193554?v=4"
+  },
+  {
+    "id": "151619717",
+    "title": "google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "stars": 36322,
+    "url": "https://github.com/google-research/google-research",
+    "page": "project/google-research.html",
+    "image": "https://avatars.githubusercontent.com/u/43830688?v=4"
+  },
+  {
+    "id": "143328315",
+    "title": "mindsdb",
+    "description": "AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": 35641,
+    "url": "https://github.com/mindsdb/mindsdb",
+    "page": "project/mindsdb.html",
+    "image": "https://avatars.githubusercontent.com/u/31035808?v=4"
+  },
+  {
+    "id": "915198910",
+    "title": "cursor-free-vip",
+    "description": "[Support 0.49.x]\uff08Reset Cursor AI MachineID & Bypass Higher Token Limit\uff09 Cursor Ai \uff0c\u81ea\u52a8\u91cd\u7f6e\u673a\u5668ID \uff0c \u514d\u8d39\u5347\u7ea7\u4f7f\u7528Pro\u529f\u80fd: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "language": "Python",
+    "stars": 35271,
+    "url": "https://github.com/yeongpin/cursor-free-vip",
+    "page": "project/cursor-free-vip.html",
+    "image": "https://avatars.githubusercontent.com/u/29575074?v=4"
+  },
+  {
+    "id": "615869301",
+    "title": "LocalAI",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "language": "Go",
+    "stars": 35149,
+    "url": "https://github.com/mudler/LocalAI",
+    "page": "project/LocalAI.html",
+    "image": "https://avatars.githubusercontent.com/u/2420543?v=4"
+  },
+  {
+    "id": "624681066",
+    "title": "AgentGPT",
+    "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "language": "TypeScript",
+    "stars": 34890,
+    "url": "https://github.com/reworkd/AgentGPT",
+    "page": "project/AgentGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/120154269?v=4"
+  },
+  {
+    "id": "45512989",
+    "title": "gold-miner",
+    "description": "\ud83e\udd47\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a",
+    "language": "Unknown",
+    "stars": 34261,
+    "url": "https://github.com/xitu/gold-miner",
+    "page": "project/gold-miner.html",
+    "image": "https://avatars.githubusercontent.com/u/10482599?v=4"
+  },
+  {
+    "id": "783512367",
+    "title": "Folo",
+    "description": "\ud83e\udde1 Follow everything in one place",
+    "language": "TypeScript",
+    "stars": 33772,
+    "url": "https://github.com/RSSNext/Folo",
+    "page": "project/Folo.html",
+    "image": "https://avatars.githubusercontent.com/u/95456295?v=4"
+  },
+  {
+    "id": "858262444",
+    "title": "awesome-cursorrules",
+    "description": "\ud83d\udcc4  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+    "language": "MDX",
+    "stars": 33645,
+    "url": "https://github.com/PatrickJS/awesome-cursorrules",
+    "page": "project/awesome-cursorrules.html",
+    "image": "https://avatars.githubusercontent.com/u/1016365?v=4"
+  },
+  {
+    "id": "738733003",
+    "title": "Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "JavaScript",
+    "stars": 33386,
+    "url": "https://github.com/danielmiessler/Fabric",
+    "page": "project/Fabric.html",
+    "image": "https://avatars.githubusercontent.com/u/50654?v=4"
+  },
+  {
+    "id": "679237742",
+    "title": "gpt-pilot",
+    "description": "The first real AI developer",
+    "language": "Python",
+    "stars": 33350,
+    "url": "https://github.com/Pythagora-io/gpt-pilot",
+    "page": "project/gpt-pilot.html",
+    "image": "https://avatars.githubusercontent.com/u/123263103?v=4"
+  },
+  {
+    "id": "332357698",
+    "title": "ruoyi-vue-pro",
+    "description": "\ud83d\udd25 \u5b98\u65b9\u63a8\u8350 \ud83d\udd25 RuoYi-Vue \u5168\u65b0 Pro \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Boot + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001AI \u5927\u6a21\u578b\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star \u2b50\ufe0f\uff0c\u662f\u4f5c\u8005\u751f\u53d1\u7684\u52a8\u529b\uff01",
+    "language": "Java",
+    "stars": 33148,
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "page": "project/ruoyi-vue-pro.html",
+    "image": "https://avatars.githubusercontent.com/u/2015545?v=4"
+  },
+  {
+    "id": "488641606",
+    "title": "agno",
+    "description": "High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.",
+    "language": "Python",
+    "stars": 32993,
+    "url": "https://github.com/agno-agi/agno",
+    "page": "project/agno.html",
+    "image": "https://avatars.githubusercontent.com/u/104874993?v=4"
+  },
+  {
+    "id": "21467110",
+    "title": "spaCy",
+    "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) in Python",
+    "language": "Python",
+    "stars": 32448,
+    "url": "https://github.com/explosion/spaCy",
+    "page": "project/spaCy.html",
+    "image": "https://avatars.githubusercontent.com/u/20011530?v=4"
+  },
+  {
+    "id": "612640604",
+    "title": "chatbot-ui",
+    "description": "AI chat for any model.",
+    "language": "TypeScript",
+    "stars": 32258,
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "page": "project/chatbot-ui.html",
+    "image": "https://avatars.githubusercontent.com/u/29221284?v=4"
+  },
+  {
+    "id": "614764248",
+    "title": "tabby",
+    "description": "Self-hosted AI coding assistant",
+    "language": "Rust",
+    "stars": 32062,
+    "url": "https://github.com/TabbyML/tabby",
+    "page": "project/tabby.html",
+    "image": "https://avatars.githubusercontent.com/u/125617854?v=4"
+  },
+  {
+    "id": "137451403",
+    "title": "nacos",
+    "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "language": "Java",
+    "stars": 32029,
+    "url": "https://github.com/alibaba/nacos",
+    "page": "project/nacos.html",
+    "image": "https://avatars.githubusercontent.com/u/1961952?v=4"
+  },
+  {
+    "id": "101782647",
+    "title": "fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "stars": 31777,
+    "url": "https://github.com/facebookresearch/fairseq",
+    "page": "project/fairseq.html",
+    "image": "https://avatars.githubusercontent.com/u/16943930?v=4"
+  },
+  {
+    "id": "1198539",
+    "title": "netron",
+    "description": "Visualizer for neural network, deep learning and machine learning models",
+    "language": "JavaScript",
+    "stars": 31363,
+    "url": "https://github.com/lutzroeder/netron",
+    "page": "project/netron.html",
+    "image": "https://avatars.githubusercontent.com/u/438516?v=4"
+  },
+  {
+    "id": "612781022",
+    "title": "cursor",
+    "description": "The AI Code Editor",
+    "language": "Unknown",
+    "stars": 31250,
+    "url": "https://github.com/cursor/cursor",
+    "page": "project/cursor.html",
+    "image": "https://avatars.githubusercontent.com/u/126759922?v=4"
+  },
+  {
+    "id": "396569538",
+    "title": "khoj",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "language": "Python",
+    "stars": 30899,
+    "url": "https://github.com/khoj-ai/khoj",
+    "page": "project/khoj.html",
+    "image": "https://avatars.githubusercontent.com/u/134046886?v=4"
+  },
+  {
+    "id": "819554665",
+    "title": "exo",
+    "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+    "language": "Python",
+    "stars": 30810,
+    "url": "https://github.com/exo-explore/exo",
+    "page": "project/exo.html",
+    "image": "https://avatars.githubusercontent.com/u/162823259?v=4"
+  },
+  {
+    "id": "306977633",
+    "title": "AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "language": "JavaScript",
+    "stars": 30247,
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "page": "project/AI-Expert-Roadmap.html",
+    "image": "https://avatars.githubusercontent.com/u/54247845?v=4"
+  },
+  {
+    "id": "646480766",
+    "title": "roop",
+    "description": "one-click face swap",
+    "language": "Python",
+    "stars": 30192,
+    "url": "https://github.com/s0md3v/roop",
+    "page": "project/roop.html",
+    "image": "https://avatars.githubusercontent.com/u/26716802?v=4"
+  },
+  {
+    "id": "287463830",
+    "title": "qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "language": "Python",
+    "stars": 30179,
+    "url": "https://github.com/microsoft/qlib",
+    "page": "project/qlib.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "178626720",
+    "title": "pytorch-lightning",
+    "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
+    "language": "Python",
+    "stars": 30100,
+    "url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "page": "project/pytorch-lightning.html",
+    "image": "https://avatars.githubusercontent.com/u/58386951?v=4"
+  },
+  {
+    "id": "600596928",
+    "title": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
+    "language": "TypeScript",
+    "stars": 29873,
+    "url": "https://github.com/danny-avila/LibreChat",
+    "page": "project/LibreChat.html",
+    "image": "https://avatars.githubusercontent.com/u/110412045?v=4"
+  },
+  {
+    "id": "621808642",
+    "title": "Mr.-Ranedeer-AI-Tutor",
+    "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+    "language": "Unknown",
+    "stars": 29648,
+    "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "page": "project/Mr.-Ranedeer-AI-Tutor.html",
+    "image": "https://avatars.githubusercontent.com/u/36951064?v=4"
+  },
+  {
+    "id": "955620917",
+    "title": "context7",
+    "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "language": "JavaScript",
+    "stars": 29612,
+    "url": "https://github.com/upstash/context7",
+    "page": "project/context7.html",
+    "image": "https://avatars.githubusercontent.com/u/74989412?v=4"
+  },
+  {
+    "id": "644686905",
+    "title": "continue",
+    "description": "\u23e9 Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI",
+    "language": "TypeScript",
+    "stars": 28841,
+    "url": "https://github.com/continuedev/continue",
+    "page": "project/continue.html",
+    "image": "https://avatars.githubusercontent.com/u/127876214?v=4"
+  },
+  {
+    "id": "837911756",
+    "title": "Jobs_Applier_AI_Agent_AIHawk",
+    "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",
+    "language": "Python",
+    "stars": 28791,
+    "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "page": "project/Jobs_Applier_AI_Agent_AIHawk.html",
+    "image": "https://avatars.githubusercontent.com/u/85809106?v=4"
+  },
+  {
+    "id": "612139233",
+    "title": "so-vits-svc",
+    "description": "SoftVC VITS Singing Voice Conversion",
+    "language": "Python",
+    "stars": 27613,
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "page": "project/so-vits-svc.html",
+    "image": "https://avatars.githubusercontent.com/u/127122328?v=4"
+  },
+  {
+    "id": "712225112",
+    "title": "Genesis",
+    "description": "A generative world for general-purpose robotics & embodied AI learning.",
+    "language": "Python",
+    "stars": 27212,
+    "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+    "page": "project/Genesis.html",
+    "image": "https://avatars.githubusercontent.com/u/149333263?v=4"
+  },
+  {
+    "id": "853189791",
+    "title": "PDFMathTranslate",
+    "description": "PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/MCP/Docker/Zotero",
+    "language": "Python",
+    "stars": 27157,
+    "url": "https://github.com/Byaidu/PDFMathTranslate",
+    "page": "project/PDFMathTranslate.html",
+    "image": "https://avatars.githubusercontent.com/u/21212051?v=4"
+  },
+  {
+    "id": "326174741",
+    "title": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "language": "Unknown",
+    "stars": 27118,
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "page": "project/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.html",
+    "image": "https://avatars.githubusercontent.com/u/3095771?v=4"
+  },
+  {
+    "id": "100061716",
+    "title": "nx",
+    "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.",
+    "language": "TypeScript",
+    "stars": 26948,
+    "url": "https://github.com/nrwl/nx",
+    "page": "project/nx.html",
+    "image": "https://avatars.githubusercontent.com/u/23692104?v=4"
+  },
+  {
+    "id": "656933936",
+    "title": "generative-models",
+    "description": "Generative Models by Stability AI",
+    "language": "Python",
+    "stars": 26370,
+    "url": "https://github.com/Stability-AI/generative-models",
+    "page": "project/generative-models.html",
+    "image": "https://avatars.githubusercontent.com/u/100950301?v=4"
+  },
+  {
+    "id": "607289185",
+    "title": "semantic-kernel",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "language": "C#",
+    "stars": 26089,
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "page": "project/semantic-kernel.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "525592995",
+    "title": "InvokeAI",
+    "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+    "language": "TypeScript",
+    "stars": 25845,
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "page": "project/InvokeAI.html",
+    "image": "https://avatars.githubusercontent.com/u/113954515?v=4"
+  }
+]

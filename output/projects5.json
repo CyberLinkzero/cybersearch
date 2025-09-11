@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "634055064",
+    "title": "open_llama",
+    "description": "OpenLLaMA, a permissively licensed open source reproduction of Meta AI\u2019s LLaMA 7B trained on the RedPajama dataset",
+    "language": "Unknown",
+    "stars": 7527,
+    "url": "https://github.com/openlm-research/open_llama",
+    "page": "project/open_llama.html",
+    "image": "https://avatars.githubusercontent.com/u/132110378?v=4"
+  },
+  {
+    "id": "75566993",
+    "title": "universe",
+    "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+    "language": "Python",
+    "stars": 7516,
+    "url": "https://github.com/openai/universe",
+    "page": "project/universe.html",
+    "image": "https://avatars.githubusercontent.com/u/14957082?v=4"
+  },
+  {
+    "id": "283280154",
+    "title": "AI-on-the-edge-device",
+    "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
+    "language": "C++",
+    "stars": 7512,
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "page": "project/AI-on-the-edge-device.html",
+    "image": "https://avatars.githubusercontent.com/u/30766535?v=4"
+  },
+  {
+    "id": "370209029",
+    "title": "backgroundremover",
+    "description": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+    "language": "Python",
+    "stars": 7505,
+    "url": "https://github.com/nadermx/backgroundremover",
+    "page": "project/backgroundremover.html",
+    "image": "https://avatars.githubusercontent.com/u/7340380?v=4"
+  },
+  {
+    "id": "801867971",
+    "title": "Embodied-AI-Guide",
+    "description": "[Lumina Embodied AI] \u5177\u8eab\u667a\u80fd\u6280\u672f\u6307\u5357 Embodied-AI-Guide",
+    "language": "Unknown",
+    "stars": 7487,
+    "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+    "page": "project/Embodied-AI-Guide.html",
+    "image": "https://avatars.githubusercontent.com/u/88101805?v=4"
+  },
+  {
+    "id": "607441698",
+    "title": "lancedb",
+    "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+    "language": "Python",
+    "stars": 7474,
+    "url": "https://github.com/lancedb/lancedb",
+    "page": "project/lancedb.html",
+    "image": "https://avatars.githubusercontent.com/u/108903835?v=4"
+  },
+  {
+    "id": "707441527",
+    "title": "agents",
+    "description": "A powerful framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9 ",
+    "language": "Python",
+    "stars": 7461,
+    "url": "https://github.com/livekit/agents",
+    "page": "project/agents.html",
+    "image": "https://avatars.githubusercontent.com/u/69438833?v=4"
+  },
+  {
+    "id": "908589694",
+    "title": "meeting-minutes",
+    "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai",
+    "language": "C++",
+    "stars": 7415,
+    "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "page": "project/meeting-minutes.html",
+    "image": "https://avatars.githubusercontent.com/u/82556810?v=4"
+  },
+  {
+    "id": "995029641",
+    "title": "claude-flow",
+    "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+    "language": "TypeScript",
+    "stars": 7406,
+    "url": "https://github.com/ruvnet/claude-flow",
+    "page": "project/claude-flow.html",
+    "image": "https://avatars.githubusercontent.com/u/2934394?v=4"
+  },
+  {
+    "id": "956472076",
+    "title": "mcp-use",
+    "description": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+    "language": "Python",
+    "stars": 7397,
+    "url": "https://github.com/mcp-use/mcp-use",
+    "page": "project/mcp-use.html",
+    "image": "https://avatars.githubusercontent.com/u/207005519?v=4"
+  },
+  {
+    "id": "403559729",
+    "title": "yao",
+    "description": "\u2728 Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.",
+    "language": "Go",
+    "stars": 7395,
+    "url": "https://github.com/YaoApp/yao",
+    "page": "project/yao.html",
+    "image": "https://avatars.githubusercontent.com/u/61642237?v=4"
+  },
+  {
+    "id": "104612770",
+    "title": "Awesome-Embedded",
+    "description": "A curated list of awesome embedded programming.",
+    "language": "Unknown",
+    "stars": 7357,
+    "url": "https://github.com/nhivp/Awesome-Embedded",
+    "page": "project/Awesome-Embedded.html",
+    "image": "https://avatars.githubusercontent.com/u/16060675?v=4"
+  },
+  {
+    "id": "817354652",
+    "title": "ten-framework",
+    "description": " Open-source framework for conversational voice AI agents.",
+    "language": "C",
+    "stars": 7342,
+    "url": "https://github.com/TEN-framework/ten-framework",
+    "page": "project/ten-framework.html",
+    "image": "https://avatars.githubusercontent.com/u/113095513?v=4"
+  },
+  {
+    "id": "756142546",
+    "title": "R2R",
+    "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+    "language": "Python",
+    "stars": 7274,
+    "url": "https://github.com/SciPhi-AI/R2R",
+    "page": "project/R2R.html",
+    "image": "https://avatars.githubusercontent.com/u/148402514?v=4"
+  },
+  {
+    "id": "12849977",
+    "title": "recastnavigation",
+    "description": "Industry-standard navigation-mesh toolset for games",
+    "language": "C++",
+    "stars": 7271,
+    "url": "https://github.com/recastnavigation/recastnavigation",
+    "page": "project/recastnavigation.html",
+    "image": "https://avatars.githubusercontent.com/u/16167685?v=4"
+  },
+  {
+    "id": "512334495",
+    "title": "lamda",
+    "description": " The most powerful Android RPA agent framework, next generation of mobile automation robots.",
+    "language": "Python",
+    "stars": 7264,
+    "url": "https://github.com/firerpa/lamda",
+    "page": "project/lamda.html",
+    "image": "https://avatars.githubusercontent.com/u/176481157?v=4"
+  },
+  {
+    "id": "599293758",
+    "title": "azure-search-openai-demo",
+    "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+    "language": "Python",
+    "stars": 7260,
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "page": "project/azure-search-openai-demo.html",
+    "image": "https://avatars.githubusercontent.com/u/1844662?v=4"
+  },
+  {
+    "id": "203999962",
+    "title": "mmagic",
+    "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic \ud83e\ude84: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+    "language": "Jupyter Notebook",
+    "stars": 7260,
+    "url": "https://github.com/open-mmlab/mmagic",
+    "page": "project/mmagic.html",
+    "image": "https://avatars.githubusercontent.com/u/10245193?v=4"
+  },
+  {
+    "id": "872119017",
+    "title": "Scrapling",
+    "description": "\ud83d\udd77\ufe0f An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!",
+    "language": "Python",
+    "stars": 7260,
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "page": "project/Scrapling.html",
+    "image": "https://avatars.githubusercontent.com/u/20604835?v=4"
+  },
+  {
+    "id": "75190475",
+    "title": "lab",
+    "description": "A customisable 3D platform for agent-based AI research",
+    "language": "C",
+    "stars": 7257,
+    "url": "https://github.com/google-deepmind/lab",
+    "page": "project/lab.html",
+    "image": "https://avatars.githubusercontent.com/u/8596759?v=4"
+  },
+  {
+    "id": "905016458",
+    "title": "mcp-agent",
+    "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+    "language": "Python",
+    "stars": 7238,
+    "url": "https://github.com/lastmile-ai/mcp-agent",
+    "page": "project/mcp-agent.html",
+    "image": "https://avatars.githubusercontent.com/u/123273171?v=4"
+  },
+  {
+    "id": "965632655",
+    "title": "awesome-gpt4o-images",
+    "description": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI\u2019s advanced image generation capabilities.",
+    "language": "JavaScript",
+    "stars": 7235,
+    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+    "page": "project/awesome-gpt4o-images.html",
+    "image": "https://avatars.githubusercontent.com/u/202651917?v=4"
+  },
+  {
+    "id": "1022907328",
+    "title": "higgs-audio",
+    "description": "Text-audio foundation model from Boson AI",
+    "language": "Python",
+    "stars": 7216,
+    "url": "https://github.com/boson-ai/higgs-audio",
+    "page": "project/higgs-audio.html",
+    "image": "https://avatars.githubusercontent.com/u/125823025?v=4"
+  },
+  {
+    "id": "898304583",
+    "title": "eino",
+    "description": "The ultimate LLM/AI application development framework in Golang.",
+    "language": "Go",
+    "stars": 7178,
+    "url": "https://github.com/cloudwego/eino",
+    "page": "project/eino.html",
+    "image": "https://avatars.githubusercontent.com/u/79236453?v=4"
+  },
+  {
+    "id": "54193621",
+    "title": "airgeddon",
+    "description": "This is a multi-use bash script for Linux systems to audit wireless networks.",
+    "language": "Shell",
+    "stars": 7147,
+    "url": "https://github.com/v1s1t0r1sh3r3/airgeddon",
+    "page": "project/airgeddon.html",
+    "image": "https://avatars.githubusercontent.com/u/17899365?v=4"
+  },
+  {
+    "id": "580537336",
+    "title": "Auto-Photoshop-StableDiffusion-Plugin",
+    "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.",
+    "language": "TypeScript",
+    "stars": 7123,
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "page": "project/Auto-Photoshop-StableDiffusion-Plugin.html",
+    "image": "https://avatars.githubusercontent.com/u/7842232?v=4"
+  },
+  {
+    "id": "625486047",
+    "title": "page-assist",
+    "description": "Use your locally running AI models to assist you in your web browsing",
+    "language": "TypeScript",
+    "stars": 7090,
+    "url": "https://github.com/n4ze3m/page-assist",
+    "page": "project/page-assist.html",
+    "image": "https://avatars.githubusercontent.com/u/39720973?v=4"
+  },
+  {
+    "id": "127008307",
+    "title": "awful-ai",
+    "description": "\ud83d\ude08Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness",
+    "language": "Unknown",
+    "stars": 7089,
+    "url": "https://github.com/daviddao/awful-ai",
+    "page": "project/awful-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/1241240?v=4"
+  },
+  {
+    "id": "527612250",
+    "title": "coroot",
+    "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+    "language": "Go",
+    "stars": 7048,
+    "url": "https://github.com/coroot/coroot",
+    "page": "project/coroot.html",
+    "image": "https://avatars.githubusercontent.com/u/66906464?v=4"
+  },
+  {
+    "id": "1000362065",
+    "title": "awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+    "language": "JavaScript",
+    "stars": 6988,
+    "url": "https://github.com/github/awesome-copilot",
+    "page": "project/awesome-copilot.html",
+    "image": "https://avatars.githubusercontent.com/u/9919?v=4"
+  },
+  {
+    "id": "679343504",
+    "title": "cognee",
+    "description": "Memory for AI Agents in 5 lines of code",
+    "language": "Python",
+    "stars": 6980,
+    "url": "https://github.com/topoteretes/cognee",
+    "page": "project/cognee.html",
+    "image": "https://avatars.githubusercontent.com/u/125468716?v=4"
+  },
+  {
+    "id": "166071450",
+    "title": "wukong-robot",
+    "description": "\ud83e\udd16 wukong-robot \u662f\u4e00\u4e2a\u7b80\u5355\u3001\u7075\u6d3b\u3001\u4f18\u96c5\u7684\u4e2d\u6587\u8bed\u97f3\u5bf9\u8bdd\u673a\u5668\u4eba/\u667a\u80fd\u97f3\u7bb1\u9879\u76ee\uff0c\u652f\u6301ChatGPT\u591a\u8f6e\u5bf9\u8bdd\u80fd\u529b\uff0c\u8fd8\u53ef\u80fd\u662f\u9996\u4e2a\u652f\u6301\u8111\u673a\u4ea4\u4e92\u7684\u5f00\u6e90\u667a\u80fd\u97f3\u7bb1\u9879\u76ee\u3002",
+    "language": "Python",
+    "stars": 6970,
+    "url": "https://github.com/wzpan/wukong-robot",
+    "page": "project/wukong-robot.html",
+    "image": "https://avatars.githubusercontent.com/u/1631405?v=4"
+  },
+  {
+    "id": "617152691",
+    "title": "k8sgpt",
+    "description": "Giving Kubernetes Superpowers to everyone",
+    "language": "Go",
+    "stars": 6933,
+    "url": "https://github.com/k8sgpt-ai/k8sgpt",
+    "page": "project/k8sgpt.html",
+    "image": "https://avatars.githubusercontent.com/u/128535266?v=4"
+  },
+  {
+    "id": "111113343",
+    "title": "DeepPavlov",
+    "description": "An open source library for deep learning end-to-end dialog systems and chatbots.",
+    "language": "Python",
+    "stars": 6929,
+    "url": "https://github.com/deeppavlov/DeepPavlov",
+    "page": "project/DeepPavlov.html",
+    "image": "https://avatars.githubusercontent.com/u/29918795?v=4"
+  },
+  {
+    "id": "88444621",
+    "title": "SerpentAI",
+    "description": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+    "language": "Python",
+    "stars": 6927,
+    "url": "https://github.com/SerpentAI/SerpentAI",
+    "page": "project/SerpentAI.html",
+    "image": "https://avatars.githubusercontent.com/u/23285573?v=4"
+  },
+  {
+    "id": "291703561",
+    "title": "autoscraper",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "language": "Python",
+    "stars": 6916,
+    "url": "https://github.com/alirezamika/autoscraper",
+    "page": "project/autoscraper.html",
+    "image": "https://avatars.githubusercontent.com/u/17881612?v=4"
+  },
+  {
+    "id": "564072810",
+    "title": "phoenix",
+    "description": "AI Observability & Evaluation",
+    "language": "Jupyter Notebook",
+    "stars": 6915,
+    "url": "https://github.com/Arize-ai/phoenix",
+    "page": "project/phoenix.html",
+    "image": "https://avatars.githubusercontent.com/u/59858760?v=4"
+  },
+  {
+    "id": "684881338",
+    "title": "aidea",
+    "description": "AIdea \u662f\u4e00\u6b3e\u652f\u6301 GPT  \u4ee5\u53ca\u56fd\u4ea7\u5927\u8bed\u8a00\u6a21\u578b\u901a\u4e49\u5343\u95ee\u3001\u6587\u5fc3\u4e00\u8a00\u7b49\uff0c\u652f\u6301 Stable Diffusion \u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u3001 SDXL1.0\u3001\u8d85\u5206\u8fa8\u7387\u3001\u56fe\u7247\u4e0a\u8272\u7684\u5168\u80fd\u578b APP\u3002",
+    "language": "Dart",
+    "stars": 6872,
+    "url": "https://github.com/mylxsw/aidea",
+    "page": "project/aidea.html",
+    "image": "https://avatars.githubusercontent.com/u/2330911?v=4"
+  },
+  {
+    "id": "610217037",
+    "title": "opencommit",
+    "description": "top #1 and most feature rich GPT wrapper for git \u2014 generate commit messages with an LLM in 1 sec \u2014 works best with Claude or GPT, supports local models too",
+    "language": "JavaScript",
+    "stars": 6865,
+    "url": "https://github.com/di-sukharev/opencommit",
+    "page": "project/opencommit.html",
+    "image": "https://avatars.githubusercontent.com/u/57486732?v=4"
+  },
+  {
+    "id": "725266899",
+    "title": "Mastering-GitHub-Copilot-for-Paired-Programming",
+    "description": "A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.",
+    "language": "Python",
+    "stars": 6833,
+    "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+    "page": "project/Mastering-GitHub-Copilot-for-Paired-Programming.html",
+    "image": "https://avatars.githubusercontent.com/u/6154722?v=4"
+  },
+  {
+    "id": "549830413",
+    "title": "civitai",
+    "description": "A repository of models, textual inversions, and more",
+    "language": "TypeScript",
+    "stars": 6820,
+    "url": "https://github.com/civitai/civitai",
+    "page": "project/civitai.html",
+    "image": "https://avatars.githubusercontent.com/u/117393426?v=4"
+  },
+  {
+    "id": "334567245",
+    "title": "Machine-Learning-Interviews",
+    "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews. ",
+    "language": "Jupyter Notebook",
+    "stars": 6810,
+    "url": "https://github.com/alirezadir/Machine-Learning-Interviews",
+    "page": "project/Machine-Learning-Interviews.html",
+    "image": "https://avatars.githubusercontent.com/u/5262877?v=4"
+  },
+  {
+    "id": "659412092",
+    "title": "ShortGPT",
+    "description": "\ud83d\ude80\ud83c\udfac ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+    "language": "Python",
+    "stars": 6801,
+    "url": "https://github.com/RayVentura/ShortGPT",
+    "page": "project/ShortGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/121462835?v=4"
+  },
+  {
+    "id": "214485001",
+    "title": "MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 6797,
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "page": "project/MONAI.html",
+    "image": "https://avatars.githubusercontent.com/u/56449156?v=4"
+  },
+  {
+    "id": "919615603",
+    "title": "kubectl-ai",
+    "description": "AI powered Kubernetes Assistant",
+    "language": "Go",
+    "stars": 6777,
+    "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "page": "project/kubectl-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/2810941?v=4"
+  },
+  {
+    "id": "832647441",
+    "title": "agent-squad",
+    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "language": "Python",
+    "stars": 6759,
+    "url": "https://github.com/awslabs/agent-squad",
+    "page": "project/agent-squad.html",
+    "image": "https://avatars.githubusercontent.com/u/3299148?v=4"
+  },
+  {
+    "id": "760022246",
+    "title": "MeloTTS",
+    "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+    "language": "Python",
+    "stars": 6723,
+    "url": "https://github.com/myshell-ai/MeloTTS",
+    "page": "project/MeloTTS.html",
+    "image": "https://avatars.githubusercontent.com/u/127754094?v=4"
+  },
+  {
+    "id": "260379216",
+    "title": "qrbtf",
+    "description": "AI & parametric QR code generator. AI & \u53c2\u6570\u5316\u4e8c\u7ef4\u7801\u751f\u6210\u5668\u3002https://qrbtf.com",
+    "language": "TypeScript",
+    "stars": 6715,
+    "url": "https://github.com/latentcat/qrbtf",
+    "page": "project/qrbtf.html",
+    "image": "https://avatars.githubusercontent.com/u/161609654?v=4"
+  },
+  {
+    "id": "933963452",
+    "title": "flowgram.ai",
+    "description": "FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes",
+    "language": "TypeScript",
+    "stars": 6698,
+    "url": "https://github.com/bytedance/flowgram.ai",
+    "page": "project/flowgram.ai.html",
+    "image": "https://avatars.githubusercontent.com/u/4158466?v=4"
+  },
+  {
+    "id": "659402878",
+    "title": "spring-ai",
+    "description": "An Application Framework for AI Engineering",
+    "language": "Java",
+    "stars": 6675,
+    "url": "https://github.com/spring-projects/spring-ai",
+    "page": "project/spring-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/317776?v=4"
+  },
+  {
+    "id": "184704903",
+    "title": "interpret",
+    "description": "Fit interpretable models. Explain blackbox machine learning. ",
+    "language": "C++",
+    "stars": 6670,
+    "url": "https://github.com/interpretml/interpret",
+    "page": "project/interpret.html",
+    "image": "https://avatars.githubusercontent.com/u/27173223?v=4"
+  },
+  {
+    "id": "602366280",
+    "title": "xiaogpt",
+    "description": "Play ChatGPT and other LLM with Xiaomi AI Speaker",
+    "language": "Python",
+    "stars": 6639,
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "page": "project/xiaogpt.html",
+    "image": "https://avatars.githubusercontent.com/u/15976103?v=4"
+  },
+  {
+    "id": "615928156",
+    "title": "big-AGI",
+    "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+    "language": "TypeScript",
+    "stars": 6612,
+    "url": "https://github.com/enricoros/big-AGI",
+    "page": "project/big-AGI.html",
+    "image": "https://avatars.githubusercontent.com/u/32999?v=4"
+  },
+  {
+    "id": "859600320",
+    "title": "cofounder",
+    "description": "ai-generated apps , full stack + generative UI",
+    "language": "TypeScript",
+    "stars": 6608,
+    "url": "https://github.com/raidendotai/cofounder",
+    "page": "project/cofounder.html",
+    "image": "https://avatars.githubusercontent.com/u/127366981?v=4"
+  },
+  {
+    "id": "59299524",
+    "title": "mycroft-core",
+    "description": "Mycroft Core, the Mycroft Artificial Intelligence platform. ",
+    "language": "Python",
+    "stars": 6605,
+    "url": "https://github.com/MycroftAI/mycroft-core",
+    "page": "project/mycroft-core.html",
+    "image": "https://avatars.githubusercontent.com/u/14171097?v=4"
+  },
+  {
+    "id": "781914762",
+    "title": "julep",
+    "description": "Deploy serverless AI workflows at scale. Firebase for AI agents",
+    "language": "Jupyter Notebook",
+    "stars": 6598,
+    "url": "https://github.com/julep-ai/julep",
+    "page": "project/julep.html",
+    "image": "https://avatars.githubusercontent.com/u/112750682?v=4"
+  },
+  {
+    "id": "315977578",
+    "title": "evidently",
+    "description": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+    "language": "Jupyter Notebook",
+    "stars": 6593,
+    "url": "https://github.com/evidentlyai/evidently",
+    "page": "project/evidently.html",
+    "image": "https://avatars.githubusercontent.com/u/75031056?v=4"
+  },
+  {
+    "id": "834688418",
+    "title": "MindSearch",
+    "description": "\ud83d\udd0d An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+    "language": "JavaScript",
+    "stars": 6588,
+    "url": "https://github.com/InternLM/MindSearch",
+    "page": "project/MindSearch.html",
+    "image": "https://avatars.githubusercontent.com/u/135356492?v=4"
+  },
+  {
+    "id": "581913613",
+    "title": "sdnext",
+    "description": "SD.Next: All-in-one WebUI for AI generative image and video creation",
+    "language": "Python",
+    "stars": 6579,
+    "url": "https://github.com/vladmandic/sdnext",
+    "page": "project/sdnext.html",
+    "image": "https://avatars.githubusercontent.com/u/57876960?v=4"
+  },
+  {
+    "id": "823429665",
+    "title": "SenseVoice",
+    "description": "Multilingual Voice Understanding Model",
+    "language": "Python",
+    "stars": 6578,
+    "url": "https://github.com/FunAudioLLM/SenseVoice",
+    "page": "project/SenseVoice.html",
+    "image": "https://avatars.githubusercontent.com/u/167062371?v=4"
+  },
+  {
+    "id": "652941996",
+    "title": "StabilityMatrix",
+    "description": "Multi-Platform Package Manager for Stable Diffusion",
+    "language": "C#",
+    "stars": 6555,
+    "url": "https://github.com/LykosAI/StabilityMatrix",
+    "page": "project/StabilityMatrix.html",
+    "image": "https://avatars.githubusercontent.com/u/136279213?v=4"
+  },
+  {
+    "id": "270530850",
+    "title": "venom",
+    "description": "\ud83d\ude80 Venom by VYNECT\u2122 \u2014 Now part of ERA CONNECT\u2122  Venom is now part of the ERA CONNECT\u2122 ecosystem by VYNECT\u2122, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate interactions, and send or receive media \u2014 with free usage limits and the option to upgrade to ERA CONNECT PRO for advanced features and stability.",
+    "language": "Unknown",
+    "stars": 6547,
+    "url": "https://github.com/vynect/venom",
+    "page": "project/venom.html",
+    "image": "https://avatars.githubusercontent.com/u/66584466?v=4"
+  },
+  {
+    "id": "649647885",
+    "title": "ChatAny",
+    "description": "\ud83c\udf3b \u4e00\u952e\u62e5\u6709\u4f60\u81ea\u5df1\u7684 ChatGPT+\u4f17\u591aAI \u7f51\u9875\u670d\u52a1 | One click access to your own ChatGPT+Many AI web services",
+    "language": "TypeScript",
+    "stars": 6530,
+    "url": "https://github.com/ChatAnyTeam/ChatAny",
+    "page": "project/ChatAny.html",
+    "image": "https://avatars.githubusercontent.com/u/186984292?v=4"
+  },
+  {
+    "id": "573759422",
+    "title": "chatgpt-advanced",
+    "description": "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.",
+    "language": "TypeScript",
+    "stars": 6509,
+    "url": "https://github.com/interstellard/chatgpt-advanced",
+    "page": "project/chatgpt-advanced.html",
+    "image": "https://avatars.githubusercontent.com/u/82041474?v=4"
+  },
+  {
+    "id": "841472636",
+    "title": "NarratoAI",
+    "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u89e3\u8bf4\u5e76\u526a\u8f91\u89c6\u9891\uff1b Using AI models to automatically provide commentary and edit videos with a single click.",
+    "language": "Python",
+    "stars": 6501,
+    "url": "https://github.com/linyqh/NarratoAI",
+    "page": "project/NarratoAI.html",
+    "image": "https://avatars.githubusercontent.com/u/45776646?v=4"
+  },
+  {
+    "id": "644293378",
+    "title": "X-AnyLabeling",
+    "description": "Effortless data labeling with AI support from Segment Anything and other awesome models.",
+    "language": "Python",
+    "stars": 6490,
+    "url": "https://github.com/CVHub520/X-AnyLabeling",
+    "page": "project/X-AnyLabeling.html",
+    "image": "https://avatars.githubusercontent.com/u/72010077?v=4"
+  },
+  {
+    "id": "769564277",
+    "title": "code2prompt",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+    "language": "MDX",
+    "stars": 6488,
+    "url": "https://github.com/mufeedvh/code2prompt",
+    "page": "project/code2prompt.html",
+    "image": "https://avatars.githubusercontent.com/u/26198477?v=4"
+  },
+  {
+    "id": "619857194",
+    "title": "street-fighter-ai",
+    "description": "This is an AI agent for Street Fighter II Champion Edition.",
+    "language": "Python",
+    "stars": 6485,
+    "url": "https://github.com/linyiLYi/street-fighter-ai",
+    "page": "project/street-fighter-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/48440925?v=4"
+  },
+  {
+    "id": "930217913",
+    "title": "browser-tools-mcp",
+    "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+    "language": "JavaScript",
+    "stars": 6470,
+    "url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+    "page": "project/browser-tools-mcp.html",
+    "image": "https://avatars.githubusercontent.com/u/194458813?v=4"
+  },
+  {
+    "id": "480239936",
+    "title": "postgresml",
+    "description": "Postgres with GPUs for ML/AI apps.",
+    "language": "Rust",
+    "stars": 6468,
+    "url": "https://github.com/postgresml/postgresml",
+    "page": "project/postgresml.html",
+    "image": "https://avatars.githubusercontent.com/u/103390393?v=4"
+  },
+  {
+    "id": "153113207",
+    "title": "BERT-pytorch",
+    "description": "Google AI 2018 BERT pytorch implementation",
+    "language": "Python",
+    "stars": 6452,
+    "url": "https://github.com/codertimo/BERT-pytorch",
+    "page": "project/BERT-pytorch.html",
+    "image": "https://avatars.githubusercontent.com/u/9063575?v=4"
+  },
+  {
+    "id": "870554327",
+    "title": "Prompt_Engineering",
+    "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.",
+    "language": "Jupyter Notebook",
+    "stars": 6446,
+    "url": "https://github.com/NirDiamant/Prompt_Engineering",
+    "page": "project/Prompt_Engineering.html",
+    "image": "https://avatars.githubusercontent.com/u/28316913?v=4"
+  },
+  {
+    "id": "111442748",
+    "title": "wav2letter",
+    "description": "Facebook AI Research's Automatic Speech Recognition Toolkit ",
+    "language": "C++",
+    "stars": 6441,
+    "url": "https://github.com/flashlight/wav2letter",
+    "page": "project/wav2letter.html",
+    "image": "https://avatars.githubusercontent.com/u/67613832?v=4"
+  },
+  {
+    "id": "900577388",
+    "title": "intentkit",
+    "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
+    "language": "Python",
+    "stars": 6434,
+    "url": "https://github.com/crestalnetwork/intentkit",
+    "page": "project/intentkit.html",
+    "image": "https://avatars.githubusercontent.com/u/156485526?v=4"
+  },
+  {
+    "id": "704728050",
+    "title": "mesop",
+    "description": "Rapidly build AI apps in Python",
+    "language": "Python",
+    "stars": 6424,
+    "url": "https://github.com/mesop-dev/mesop",
+    "page": "project/mesop.html",
+    "image": "https://avatars.githubusercontent.com/u/203353923?v=4"
+  },
+  {
+    "id": "606031950",
+    "title": "ChatGPT-Shortcut",
+    "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity, support for English,\u4e2d\u6587,Espa\u00f1ol,\u0627\u0644\u0639\u0631\u0628\u064a\u0629. \u8ba9\u751f\u4ea7\u529b\u52a0\u500d\u7684AI\u5feb\u6377\u6307\u4ee4\u3002\u66f4\u6709\u6548\u5730\u5b9a\u5236\u3001\u4fdd\u5b58\u548c\u5206\u4eab\u81ea\u5df1\u7684\u63d0\u793a\u8bcd\u3002\u5728\u63d0\u793a\u8bcd\u5206\u4eab\u793e\u533a\u4e2d\uff0c\u8f7b\u677e\u627e\u5230\u9002\u7528\u4e8e\u4e0d\u540c\u573a\u666f\u7684\u6307\u4ee4\u3002",
+    "language": "TypeScript",
+    "stars": 6376,
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+    "page": "project/ChatGPT-Shortcut.html",
+    "image": "https://avatars.githubusercontent.com/u/28252913?v=4"
+  },
+  {
+    "id": "124678204",
+    "title": "aircrack-ng",
+    "description": "WiFi security auditing tools suite",
+    "language": "C",
+    "stars": 6373,
+    "url": "https://github.com/aircrack-ng/aircrack-ng",
+    "page": "project/aircrack-ng.html",
+    "image": "https://avatars.githubusercontent.com/u/4042925?v=4"
+  },
+  {
+    "id": "558188628",
+    "title": "higress",
+    "description": "\ud83e\udd16 AI Gateway | AI Native API Gateway",
+    "language": "Go",
+    "stars": 6354,
+    "url": "https://github.com/alibaba/higress",
+    "page": "project/higress.html",
+    "image": "https://avatars.githubusercontent.com/u/1961952?v=4"
+  },
+  {
+    "id": "618903393",
+    "title": "OpenPromptStudio",
+    "description": "\ud83e\udd63 AIGC \u63d0\u793a\u8bcd\u53ef\u89c6\u5316\u7f16\u8f91\u5668  | OPS | Open Prompt Studio",
+    "language": "Vue",
+    "stars": 6347,
+    "url": "https://github.com/Moonvy/OpenPromptStudio",
+    "page": "project/OpenPromptStudio.html",
+    "image": "https://avatars.githubusercontent.com/u/76830444?v=4"
+  },
+  {
+    "id": "89033556",
+    "title": "firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "language": "C++",
+    "stars": 6346,
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "page": "project/firebase-ios-sdk.html",
+    "image": "https://avatars.githubusercontent.com/u/1335026?v=4"
+  },
+  {
+    "id": "60377070",
+    "title": "vespa",
+    "description": "AI + Data, online. https://vespa.ai",
+    "language": "Java",
+    "stars": 6341,
+    "url": "https://github.com/vespa-engine/vespa",
+    "page": "project/vespa.html",
+    "image": "https://avatars.githubusercontent.com/u/29299694?v=4"
+  },
+  {
+    "id": "119336293",
+    "title": "yn",
+    "description": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
+    "language": "TypeScript",
+    "stars": 6339,
+    "url": "https://github.com/purocean/yn",
+    "page": "project/yn.html",
+    "image": "https://avatars.githubusercontent.com/u/7115690?v=4"
+  },
+  {
+    "id": "161133770",
+    "title": "feast",
+    "description": "The Open Source Feature Store for AI/ML",
+    "language": "Python",
+    "stars": 6322,
+    "url": "https://github.com/feast-dev/feast",
+    "page": "project/feast.html",
+    "image": "https://avatars.githubusercontent.com/u/57027613?v=4"
+  },
+  {
+    "id": "926709003",
+    "title": "bytebot",
+    "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+    "language": "TypeScript",
+    "stars": 6316,
+    "url": "https://github.com/bytebot-ai/bytebot",
+    "page": "project/bytebot.html",
+    "image": "https://avatars.githubusercontent.com/u/154629106?v=4"
+  },
+  {
+    "id": "470962649",
+    "title": "ML-Course-Notes",
+    "description": "\ud83c\udf93 Sharing machine learning course / lecture notes.",
+    "language": "Unknown",
+    "stars": 6294,
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "page": "project/ML-Course-Notes.html",
+    "image": "https://avatars.githubusercontent.com/u/30384625?v=4"
+  },
+  {
+    "id": "741365632",
+    "title": "crawlee-python",
+    "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "language": "Python",
+    "stars": 6285,
+    "url": "https://github.com/apify/crawlee-python",
+    "page": "project/crawlee-python.html",
+    "image": "https://avatars.githubusercontent.com/u/24586296?v=4"
+  },
+  {
+    "id": "722184017",
+    "title": "assistant-ui",
+    "description": "Typescript/React Library for AI Chat\ud83d\udcac\ud83d\ude80",
+    "language": "TypeScript",
+    "stars": 6271,
+    "url": "https://github.com/assistant-ui/assistant-ui",
+    "page": "project/assistant-ui.html",
+    "image": "https://avatars.githubusercontent.com/u/189563271?v=4"
+  },
+  {
+    "id": "191126383",
+    "title": "clearml",
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+    "language": "Python",
+    "stars": 6264,
+    "url": "https://github.com/clearml/clearml",
+    "page": "project/clearml.html",
+    "image": "https://avatars.githubusercontent.com/u/38647316?v=4"
+  },
+  {
+    "id": "850515061",
+    "title": "SuperPrompt",
+    "description": "SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.",
+    "language": "Unknown",
+    "stars": 6249,
+    "url": "https://github.com/NeoVertex1/SuperPrompt",
+    "page": "project/SuperPrompt.html",
+    "image": "https://avatars.githubusercontent.com/u/176629654?v=4"
+  },
+  {
+    "id": "662724864",
+    "title": "ai-toolkit",
+    "description": "The ultimate training toolkit for finetuning diffusion models",
+    "language": "Python",
+    "stars": 6233,
+    "url": "https://github.com/ostris/ai-toolkit",
+    "page": "project/ai-toolkit.html",
+    "image": "https://avatars.githubusercontent.com/u/33983539?v=4"
+  },
+  {
+    "id": "776121034",
+    "title": "omi",
+    "description": "AI wearables. Put it on, speak, transcribe, automatically",
+    "language": "C",
+    "stars": 6227,
+    "url": "https://github.com/BasedHardware/omi",
+    "page": "project/omi.html",
+    "image": "https://avatars.githubusercontent.com/u/162546372?v=4"
+  },
+  {
+    "id": "241095326",
+    "title": "flower",
+    "description": "Flower: A Friendly Federated AI Framework",
+    "language": "Python",
+    "stars": 6212,
+    "url": "https://github.com/adap/flower",
+    "page": "project/flower.html",
+    "image": "https://avatars.githubusercontent.com/u/57905187?v=4"
+  },
+  {
+    "id": "658949840",
+    "title": "RealChar",
+    "description": "\ud83c\udf99\ufe0f\ud83e\udd16Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech\ud83c\udf99\ufe0f\ud83e\udd16",
+    "language": "JavaScript",
+    "stars": 6196,
+    "url": "https://github.com/Shaunwei/RealChar",
+    "page": "project/RealChar.html",
+    "image": "https://avatars.githubusercontent.com/u/5101573?v=4"
+  },
+  {
+    "id": "622510230",
+    "title": "courses",
+    "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "language": "Python",
+    "stars": 6171,
+    "url": "https://github.com/SkalskiP/courses",
+    "page": "project/courses.html",
+    "image": "https://avatars.githubusercontent.com/u/26109316?v=4"
+  },
+  {
+    "id": "763795053",
+    "title": "LaVague",
+    "description": "Large Action Model framework to develop AI Web Agents",
+    "language": "Python",
+    "stars": 6162,
+    "url": "https://github.com/lavague-ai/LaVague",
+    "page": "project/LaVague.html",
+    "image": "https://avatars.githubusercontent.com/u/163125966?v=4"
+  },
+  {
+    "id": "956842312",
+    "title": "git-mcp",
+    "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+    "language": "TypeScript",
+    "stars": 6134,
+    "url": "https://github.com/idosal/git-mcp",
+    "page": "project/git-mcp.html",
+    "image": "https://avatars.githubusercontent.com/u/18148989?v=4"
+  },
+  {
+    "id": "613486352",
+    "title": "llm",
+    "description": "[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models",
+    "language": "Rust",
+    "stars": 6127,
+    "url": "https://github.com/rustformers/llm",
+    "page": "project/llm.html",
+    "image": "https://avatars.githubusercontent.com/u/128733234?v=4"
+  },
+  {
+    "id": "639096757",
+    "title": "superagent",
+    "description": "The worlds first purpose-built firewall for AI",
+    "language": "Rust",
+    "stars": 6107,
+    "url": "https://github.com/superagent-ai/superagent",
+    "page": "project/superagent.html",
+    "image": "https://avatars.githubusercontent.com/u/152537519?v=4"
+  },
+  {
+    "id": "75694548",
+    "title": "TagUI",
+    "description": "Free RPA tool by AI Singapore",
+    "language": "JavaScript",
+    "stars": 6078,
+    "url": "https://github.com/aisingapore/TagUI",
+    "page": "project/TagUI.html",
+    "image": "https://avatars.githubusercontent.com/u/110224767?v=4"
+  },
+  {
+    "id": "46527265",
+    "title": "Swift-AI",
+    "description": "The Swift machine learning library.",
+    "language": "Swift",
+    "stars": 6058,
+    "url": "https://github.com/Swift-AI/Swift-AI",
+    "page": "project/Swift-AI.html",
+    "image": "https://avatars.githubusercontent.com/u/26942034?v=4"
+  }
+]

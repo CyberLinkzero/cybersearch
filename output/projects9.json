@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "674164679",
+    "title": "awesome-ai-devtools",
+    "description": "Curated list of AI-powered developer tools.",
+    "language": "Unknown",
+    "stars": 3319,
+    "url": "https://github.com/jamesmurdza/awesome-ai-devtools",
+    "page": "project/awesome-ai-devtools.html",
+    "image": "https://avatars.githubusercontent.com/u/33395784?v=4"
+  },
+  {
+    "id": "821360765",
+    "title": "latitude-llm",
+    "description": "Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI",
+    "language": "TypeScript",
+    "stars": 3313,
+    "url": "https://github.com/latitude-dev/latitude-llm",
+    "page": "project/latitude-llm.html",
+    "image": "https://avatars.githubusercontent.com/u/98949449?v=4"
+  },
+  {
+    "id": "58418306",
+    "title": "snowboy",
+    "description": "Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy",
+    "language": "C++",
+    "stars": 3288,
+    "url": "https://github.com/Kitt-AI/snowboy",
+    "page": "project/snowboy.html",
+    "image": "https://avatars.githubusercontent.com/u/11862040?v=4"
+  },
+  {
+    "id": "632902959",
+    "title": "AChat",
+    "description": "\ud83c\udf0a AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.",
+    "language": "TypeScript",
+    "stars": 3276,
+    "url": "https://github.com/AprilNEA/AChat",
+    "page": "project/AChat.html",
+    "image": "https://avatars.githubusercontent.com/u/37977109?v=4"
+  },
+  {
+    "id": "746912944",
+    "title": "ADeus",
+    "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+    "language": "TypeScript",
+    "stars": 3271,
+    "url": "https://github.com/adamcohenhillel/ADeus",
+    "page": "project/ADeus.html",
+    "image": "https://avatars.githubusercontent.com/u/633840?v=4"
+  },
+  {
+    "id": "629849791",
+    "title": "refact",
+    "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers\u2019 tools, plans, executes, and iterates until it achieves a successful result.",
+    "language": "Rust",
+    "stars": 3271,
+    "url": "https://github.com/smallcloudai/refact",
+    "page": "project/refact.html",
+    "image": "https://avatars.githubusercontent.com/u/96793575?v=4"
+  },
+  {
+    "id": "855492641",
+    "title": "2026-AI-College-Jobs",
+    "description": "2026 AI/ML internship & new graduate job list updated daily",
+    "language": "Unknown",
+    "stars": 3260,
+    "url": "https://github.com/speedyapply/2026-AI-College-Jobs",
+    "page": "project/2026-AI-College-Jobs.html",
+    "image": "https://avatars.githubusercontent.com/u/153841985?v=4"
+  },
+  {
+    "id": "164433070",
+    "title": "AI-Infra-from-Zero-to-Hero",
+    "description": "\ud83d\ude80 Awesome System for Machine Learning \u26a1\ufe0f AI System Papers and Industry Practice. \u26a1\ufe0f System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). \ud83c\udf7b OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. \ud83d\uddc3\ufe0f Llama3, Mistral, etc. \ud83e\uddd1\u200d\ud83d\udcbb Video Tutorials. ",
+    "language": "Unknown",
+    "stars": 3259,
+    "url": "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+    "page": "project/AI-Infra-from-Zero-to-Hero.html",
+    "image": "https://avatars.githubusercontent.com/u/5894780?v=4"
+  },
+  {
+    "id": "750068254",
+    "title": "gptscript",
+    "description": "Build AI assistants that interact with your systems",
+    "language": "Go",
+    "stars": 3257,
+    "url": "https://github.com/gptscript-ai/gptscript",
+    "page": "project/gptscript.html",
+    "image": "https://avatars.githubusercontent.com/u/158112119?v=4"
+  },
+  {
+    "id": "163941732",
+    "title": "Girls-In-AI",
+    "description": "\u514d\u8d39\u5b66\u4ee3\u7801\u7cfb\u5217\uff1a\u5c0f\u767dpython\u5165\u95e8\u3001\u6570\u636e\u5206\u6790data analyst\u3001\u673a\u5668\u5b66\u4e60machine learning\u3001\u6df1\u5ea6\u5b66\u4e60deep learning\u3001kaggle\u5b9e\u6218",
+    "language": "Jupyter Notebook",
+    "stars": 3250,
+    "url": "https://github.com/girls-in-ai/Girls-In-AI",
+    "page": "project/Girls-In-AI.html",
+    "image": "https://avatars.githubusercontent.com/u/52707818?v=4"
+  },
+  {
+    "id": "996329491",
+    "title": "Backlog.md",
+    "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+    "language": "TypeScript",
+    "stars": 3244,
+    "url": "https://github.com/MrLesk/Backlog.md",
+    "page": "project/Backlog.md.html",
+    "image": "https://avatars.githubusercontent.com/u/30028430?v=4"
+  },
+  {
+    "id": "28635894",
+    "title": "AliceVision",
+    "description": "3D Computer Vision Framework",
+    "language": "C++",
+    "stars": 3235,
+    "url": "https://github.com/alicevision/AliceVision",
+    "page": "project/AliceVision.html",
+    "image": "https://avatars.githubusercontent.com/u/9333123?v=4"
+  },
+  {
+    "id": "206562316",
+    "title": "rlcard",
+    "description": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
+    "language": "Python",
+    "stars": 3231,
+    "url": "https://github.com/datamllab/rlcard",
+    "page": "project/rlcard.html",
+    "image": "https://avatars.githubusercontent.com/u/47761535?v=4"
+  },
+  {
+    "id": "537940881",
+    "title": "Dreambooth-Stable-Diffusion",
+    "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
+    "language": "Jupyter Notebook",
+    "stars": 3225,
+    "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
+    "page": "project/Dreambooth-Stable-Diffusion.html",
+    "image": "https://avatars.githubusercontent.com/u/100188076?v=4"
+  },
+  {
+    "id": "983715534",
+    "title": "sdk-python",
+    "description": "A model-driven approach to building AI agents in just a few lines of code.",
+    "language": "Python",
+    "stars": 3224,
+    "url": "https://github.com/strands-agents/sdk-python",
+    "page": "project/sdk-python.html",
+    "image": "https://avatars.githubusercontent.com/u/209155962?v=4"
+  },
+  {
+    "id": "179196443",
+    "title": "AIDungeon",
+    "description": "Infinite adventures await!",
+    "language": "Python",
+    "stars": 3222,
+    "url": "https://github.com/latitudegames/AIDungeon",
+    "page": "project/AIDungeon.html",
+    "image": "https://avatars.githubusercontent.com/u/58671004?v=4"
+  },
+  {
+    "id": "637875777",
+    "title": "InternGPT",
+    "description": "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (\u652f\u6301DragGAN\u3001ChatGPT\u3001ImageBind\u3001SAM\u7684\u5728\u7ebfDemo\u7cfb\u7edf)",
+    "language": "Python",
+    "stars": 3217,
+    "url": "https://github.com/OpenGVLab/InternGPT",
+    "page": "project/InternGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/94522163?v=4"
+  },
+  {
+    "id": "851585570",
+    "title": "overseas-website-note",
+    "description": "\u300c\u6d77\u5916\u5de5\u5177\u7f51\u7ad9\u300d\u5df2\u7ecf\u662f\u6211\u4eba\u751f\u4e3b\u8981\u4e8b\u4e1a\u4e86\uff0c\u5f88\u5e86\u5e78\u8fd8\u6765\u5f97\u53ca\uff0c\u611f\u8c22\u8fd9\u4e2a\u4f1f\u5927\u7684 AI \u65f6\u4ee3\u3002",
+    "language": "Unknown",
+    "stars": 3216,
+    "url": "https://github.com/princehuang/overseas-website-note",
+    "page": "project/overseas-website-note.html",
+    "image": "https://avatars.githubusercontent.com/u/11406914?v=4"
+  },
+  {
+    "id": "129847467",
+    "title": "awesome-ai-residency",
+    "description": "List of AI Residency Programs",
+    "language": "Unknown",
+    "stars": 3210,
+    "url": "https://github.com/dangkhoasdc/awesome-ai-residency",
+    "page": "project/awesome-ai-residency.html",
+    "image": "https://avatars.githubusercontent.com/u/3388047?v=4"
+  },
+  {
+    "id": "463628495",
+    "title": "executorch",
+    "description": "On-device AI across mobile, embedded and edge for PyTorch",
+    "language": "Python",
+    "stars": 3209,
+    "url": "https://github.com/pytorch/executorch",
+    "page": "project/executorch.html",
+    "image": "https://avatars.githubusercontent.com/u/21003710?v=4"
+  },
+  {
+    "id": "931354511",
+    "title": "pdf-craft",
+    "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+    "language": "Python",
+    "stars": 3206,
+    "url": "https://github.com/oomol-lab/pdf-craft",
+    "page": "project/pdf-craft.html",
+    "image": "https://avatars.githubusercontent.com/u/146153906?v=4"
+  },
+  {
+    "id": "835458362",
+    "title": "langgraph-studio",
+    "description": "Desktop app for prototyping and debugging LangGraph applications locally.",
+    "language": "Unknown",
+    "stars": 3204,
+    "url": "https://github.com/langchain-ai/langgraph-studio",
+    "page": "project/langgraph-studio.html",
+    "image": "https://avatars.githubusercontent.com/u/126733545?v=4"
+  },
+  {
+    "id": "967530387",
+    "title": "voltagent",
+    "description": "Open Source TypeScript AI Agent Framework",
+    "language": "TypeScript",
+    "stars": 3194,
+    "url": "https://github.com/VoltAgent/voltagent",
+    "page": "project/voltagent.html",
+    "image": "https://avatars.githubusercontent.com/u/201282378?v=4"
+  },
+  {
+    "id": "448085396",
+    "title": "best_AI_papers_2022",
+    "description": "A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.",
+    "language": "Unknown",
+    "stars": 3189,
+    "url": "https://github.com/louisfb01/best_AI_papers_2022",
+    "page": "project/best_AI_papers_2022.html",
+    "image": "https://avatars.githubusercontent.com/u/70274208?v=4"
+  },
+  {
+    "id": "886966165",
+    "title": "morphik-core",
+    "description": "The most accurate document search and store for building AI apps",
+    "language": "Python",
+    "stars": 3188,
+    "url": "https://github.com/morphik-org/morphik-core",
+    "page": "project/morphik-core.html",
+    "image": "https://avatars.githubusercontent.com/u/189408230?v=4"
+  },
+  {
+    "id": "174653395",
+    "title": "jetbot",
+    "description": "An educational AI robot based on NVIDIA Jetson Nano.",
+    "language": "Jupyter Notebook",
+    "stars": 3163,
+    "url": "https://github.com/NVIDIA-AI-IOT/jetbot",
+    "page": "project/jetbot.html",
+    "image": "https://avatars.githubusercontent.com/u/29582968?v=4"
+  },
+  {
+    "id": "169164539",
+    "title": "habitat-sim",
+    "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
+    "language": "C++",
+    "stars": 3159,
+    "url": "https://github.com/facebookresearch/habitat-sim",
+    "page": "project/habitat-sim.html",
+    "image": "https://avatars.githubusercontent.com/u/16943930?v=4"
+  },
+  {
+    "id": "284824224",
+    "title": "ruby-openai",
+    "description": "OpenAI API + Ruby! \ud83e\udd16\u2764\ufe0f GPT-5 & Realtime WebRTC compatible!",
+    "language": "Ruby",
+    "stars": 3157,
+    "url": "https://github.com/alexrudall/ruby-openai",
+    "page": "project/ruby-openai.html",
+    "image": "https://avatars.githubusercontent.com/u/7175262?v=4"
+  },
+  {
+    "id": "33088125",
+    "title": "aiofiles",
+    "description": "File support for asyncio",
+    "language": "Python",
+    "stars": 3149,
+    "url": "https://github.com/Tinche/aiofiles",
+    "page": "project/aiofiles.html",
+    "image": "https://avatars.githubusercontent.com/u/1909233?v=4"
+  },
+  {
+    "id": "969308195",
+    "title": "RealtimeVoiceChat",
+    "description": "Have a natural, spoken conversation with AI!",
+    "language": "Python",
+    "stars": 3148,
+    "url": "https://github.com/KoljaB/RealtimeVoiceChat",
+    "page": "project/RealtimeVoiceChat.html",
+    "image": "https://avatars.githubusercontent.com/u/7604638?v=4"
+  },
+  {
+    "id": "694266896",
+    "title": "ciso-assistant-community",
+    "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, CyFun, AirCyber, NCSC, ECC, SCF and so much more",
+    "language": "Python",
+    "stars": 3143,
+    "url": "https://github.com/intuitem/ciso-assistant-community",
+    "page": "project/ciso-assistant-community.html",
+    "image": "https://avatars.githubusercontent.com/u/71849524?v=4"
+  },
+  {
+    "id": "16690938",
+    "title": "sunfish",
+    "description": "Sunfish: a Python Chess Engine in 111 lines of code",
+    "language": "Python",
+    "stars": 3141,
+    "url": "https://github.com/thomasahle/sunfish",
+    "page": "project/sunfish.html",
+    "image": "https://avatars.githubusercontent.com/u/946355?v=4"
+  },
+  {
+    "id": "602478874",
+    "title": "deepseek",
+    "description": "\u6f14\u793a\u7ad9\u53ef\u4ee5\u514d\u8d39\u4f7f\u7528deepseek-r1\u6ee1\u8840\u6a21\u578b\u8fdb\u884cAI\u5bf9\u8bdd\uff0c\u5e76\u652f\u6301\u4f7f\u7528stablediffusion\u6a21\u578b\u753b\u56fe\u3002\u672c\u9879\u76ee\u662fPHP\u7248\u8c03\u7528DeepSeek\u7b2c\u4e09\u65b9\u63a5\u53e3\u8fdb\u884c\u95ee\u7b54\u548c\u753b\u56fe\uff0c\u91c7\u7528Stream\u6d41\u6a21\u5f0f\u901a\u4fe1\uff0c\u4e00\u8fb9\u751f\u6210\u4e00\u8fb9\u8f93\u51fa\u3002\u524d\u7aef\u91c7\u7528EventSource\uff0c\u652f\u6301Markdown\u683c\u5f0f\u89e3\u6790\uff0c\u652f\u6301\u516c\u5f0f\u663e\u793a\uff0c\u4ee3\u7801\u6709\u7740\u8272\u5904\u7406\uff0c\u652f\u6301\u753b\u56fe\u3002\u9875\u9762UI\u7b80\u6d01\uff0c\u652f\u6301\u4e0a\u4e0b\u6587\u8fde\u7eed\u4f1a\u8bdd\u3002\u6e90\u7801\u53ea\u6709\u51e0\u4e2a\u6587\u4ef6\uff0c\u6ca1\u7528\u4efb\u4f55\u6846\u67b6\uff0c\u652f\u6301\u6240\u6709PHP\u7248\u672c\uff0c\u5168\u90e8\u5f00\u6e90\uff0c\u6781\u6613\u4e8c\u5f00\uff0c\u9002\u5408PHP\u521d\u5b66\u8005\u3002\u4fdd\u59c6\u7ea7\u6559\u7a0b\uff0c\u8d26\u53f7\u7b49\u5468\u8fb9\u8d44\u6e90\uff0c\u6b22\u8fce\u8fdb\u7fa4\u4ea4\u6d41\uff0c\u4e00\u5207\u5168\u514d\u8d39\u3002",
+    "language": "JavaScript",
+    "stars": 3140,
+    "url": "https://github.com/dirk1983/deepseek",
+    "page": "project/deepseek.html",
+    "image": "https://avatars.githubusercontent.com/u/5563148?v=4"
+  },
+  {
+    "id": "485606685",
+    "title": "course22",
+    "description": "The fast.ai course notebooks",
+    "language": "Jupyter Notebook",
+    "stars": 3135,
+    "url": "https://github.com/fastai/course22",
+    "page": "project/course22.html",
+    "image": "https://avatars.githubusercontent.com/u/20547620?v=4"
+  },
+  {
+    "id": "950564038",
+    "title": "unity-mcp",
+    "description": "A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.",
+    "language": "C#",
+    "stars": 3131,
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "page": "project/unity-mcp.html",
+    "image": "https://avatars.githubusercontent.com/u/188132522?v=4"
+  },
+  {
+    "id": "768858070",
+    "title": "get_jobs",
+    "description": "\ud83d\udcbc\u3010AI\u627e\u5de5\u4f5c\u52a9\u624b\u3011\u5168\u5e73\u53f0\u81ea\u52a8\u6295\u7b80\u5386\u811a\u672c\uff1a(boss\u3001\u524d\u7a0b\u65e0\u5fe7\u3001\u730e\u8058\u3001\u62c9\u52fe\u3001\u667a\u8054\u62db\u8058)",
+    "language": "Java",
+    "stars": 3121,
+    "url": "https://github.com/loks666/get_jobs",
+    "page": "project/get_jobs.html",
+    "image": "https://avatars.githubusercontent.com/u/33214035?v=4"
+  },
+  {
+    "id": "992357079",
+    "title": "mcp-feedback-enhanced",
+    "description": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
+    "language": "JavaScript",
+    "stars": 3117,
+    "url": "https://github.com/Minidoracat/mcp-feedback-enhanced",
+    "page": "project/mcp-feedback-enhanced.html",
+    "image": "https://avatars.githubusercontent.com/u/11269639?v=4"
+  },
+  {
+    "id": "320463703",
+    "title": "qsv",
+    "description": "Blazing-fast Data-Wrangling toolkit",
+    "language": "Rust",
+    "stars": 3111,
+    "url": "https://github.com/dathere/qsv",
+    "page": "project/qsv.html",
+    "image": "https://avatars.githubusercontent.com/u/61702229?v=4"
+  },
+  {
+    "id": "683212753",
+    "title": "awesome-ai-tools",
+    "description": "A curated list of Artificial Intelligence Top Tools",
+    "language": "Unknown",
+    "stars": 3110,
+    "url": "https://github.com/mahseema/awesome-ai-tools",
+    "page": "project/awesome-ai-tools.html",
+    "image": "https://avatars.githubusercontent.com/u/143227828?v=4"
+  },
+  {
+    "id": "686871971",
+    "title": "Awesome-Text2SQL",
+    "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL\u3001Text2API\u3001Text2Vis and more.",
+    "language": "Unknown",
+    "stars": 3100,
+    "url": "https://github.com/eosphoros-ai/Awesome-Text2SQL",
+    "page": "project/Awesome-Text2SQL.html",
+    "image": "https://avatars.githubusercontent.com/u/140580304?v=4"
+  },
+  {
+    "id": "818118661",
+    "title": "SwarmUI",
+    "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+    "language": "C#",
+    "stars": 3089,
+    "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+    "page": "project/SwarmUI.html",
+    "image": "https://avatars.githubusercontent.com/u/43497670?v=4"
+  },
+  {
+    "id": "715829424",
+    "title": "OpenAI_Agent_Swarm",
+    "description": "HAAS = Hierarchical Autonomous Agent Swarm - \"Resistance is futile!\"",
+    "language": "Python",
+    "stars": 3081,
+    "url": "https://github.com/daveshap/OpenAI_Agent_Swarm",
+    "page": "project/OpenAI_Agent_Swarm.html",
+    "image": "https://avatars.githubusercontent.com/u/10718065?v=4"
+  },
+  {
+    "id": "629177820",
+    "title": "AGiXT",
+    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+    "language": "Python",
+    "stars": 3079,
+    "url": "https://github.com/Josh-XT/AGiXT",
+    "page": "project/AGiXT.html",
+    "image": "https://avatars.githubusercontent.com/u/102809327?v=4"
+  },
+  {
+    "id": "814708478",
+    "title": "unitycatalog",
+    "description": "Open, Multi-modal Catalog for Data & AI",
+    "language": "Python",
+    "stars": 3078,
+    "url": "https://github.com/unitycatalog/unitycatalog",
+    "page": "project/unitycatalog.html",
+    "image": "https://avatars.githubusercontent.com/u/171874451?v=4"
+  },
+  {
+    "id": "120768790",
+    "title": "automagica",
+    "description": "AI-powered Smart Robotic Process Automation \ud83e\udd16",
+    "language": "Python",
+    "stars": 3074,
+    "url": "https://github.com/automagica/automagica",
+    "page": "project/automagica.html",
+    "image": "https://avatars.githubusercontent.com/u/33032233?v=4"
+  },
+  {
+    "id": "910573240",
+    "title": "trendFinder",
+    "description": "Stay on top of trending topics on social media and the web with AI",
+    "language": "TypeScript",
+    "stars": 3072,
+    "url": "https://github.com/ericciarla/trendFinder",
+    "page": "project/trendFinder.html",
+    "image": "https://avatars.githubusercontent.com/u/43451761?v=4"
+  },
+  {
+    "id": "869881190",
+    "title": "Sidekick",
+    "description": "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.",
+    "language": "Swift",
+    "stars": 3070,
+    "url": "https://github.com/johnbean393/Sidekick",
+    "page": "project/Sidekick.html",
+    "image": "https://avatars.githubusercontent.com/u/113509988?v=4"
+  },
+  {
+    "id": "89471385",
+    "title": "awesome-quantum-machine-learning",
+    "description": "Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web",
+    "language": "HTML",
+    "stars": 3055,
+    "url": "https://github.com/krishnakumarsekar/awesome-quantum-machine-learning",
+    "page": "project/awesome-quantum-machine-learning.html",
+    "image": "https://avatars.githubusercontent.com/u/15079454?v=4"
+  },
+  {
+    "id": "178999736",
+    "title": "minikeyvalue",
+    "description": "A distributed key value store in under 1000 lines. Used in production at comma.ai",
+    "language": "Go",
+    "stars": 3053,
+    "url": "https://github.com/geohot/minikeyvalue",
+    "page": "project/minikeyvalue.html",
+    "image": "https://avatars.githubusercontent.com/u/72895?v=4"
+  },
+  {
+    "id": "387506334",
+    "title": "awesome-generative-ai",
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "language": "Unknown",
+    "stars": 3052,
+    "url": "https://github.com/filipecalegario/awesome-generative-ai",
+    "page": "project/awesome-generative-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/299057?v=4"
+  },
+  {
+    "id": "946153980",
+    "title": "ClaraVerse",
+    "description": "ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama.cpp, along with support for any provider, tool calling, agent building, Stable Diffusion, and n8n-style automation. It requires no backend or API keys\u2014just your stack and machine.",
+    "language": "TypeScript",
+    "stars": 3050,
+    "url": "https://github.com/badboysm890/ClaraVerse",
+    "page": "project/ClaraVerse.html",
+    "image": "https://avatars.githubusercontent.com/u/25215409?v=4"
+  },
+  {
+    "id": "631379545",
+    "title": "pezzo",
+    "description": "\ud83d\udd79\ufe0f Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.",
+    "language": "TypeScript",
+    "stars": 3050,
+    "url": "https://github.com/pezzolabs/pezzo",
+    "page": "project/pezzo.html",
+    "image": "https://avatars.githubusercontent.com/u/119122072?v=4"
+  },
+  {
+    "id": "583226759",
+    "title": "TTime",
+    "description": "\ud83d\ude80 Screenshots, word marking, OCR, AI, translation software || \u622a\u56fe\u3001\u5212\u8bcd\u3001\u6587\u5b57\u8bc6\u522b\u3001AI\u3001\u7ffb\u8bd1\u8f6f\u4ef6",
+    "language": "TypeScript",
+    "stars": 3048,
+    "url": "https://github.com/InkTimeRecord/TTime",
+    "page": "project/TTime.html",
+    "image": "https://avatars.githubusercontent.com/u/121598746?v=4"
+  },
+  {
+    "id": "342884320",
+    "title": "cool-admin-midway",
+    "description": "\ud83d\udd25 cool-admin(midway\u7248)\u4e00\u4e2a\u5f88\u9177\u7684\u540e\u53f0\u6743\u9650\u7ba1\u7406\u6846\u67b6\uff0cAi\u7f16\u7801\u3001\u6d41\u7a0b\u7f16\u6392\u3001\u6a21\u5757\u5316\u3001\u63d2\u4ef6\u5316\u3001CRUD\u6781\u901f\u5f00\u53d1\uff0c\u6c38\u4e45\u5f00\u6e90\u514d\u8d39\uff0c\u57fa\u4e8enodejs\u3001typescript\u3001typeorm\u3001mysql\u3001jwt\u3001vue3\u3001vite\u3001element-ui\u7b49\u6784\u5efa",
+    "language": "TypeScript",
+    "stars": 3048,
+    "url": "https://github.com/cool-team-official/cool-admin-midway",
+    "page": "project/cool-admin-midway.html",
+    "image": "https://avatars.githubusercontent.com/u/62868950?v=4"
+  },
+  {
+    "id": "366764229",
+    "title": "zadig",
+    "description": "Zadig: An AI-powered, cloud-native, distributed DevOps platform designed for developers",
+    "language": "Go",
+    "stars": 3045,
+    "url": "https://github.com/koderover/zadig",
+    "page": "project/zadig.html",
+    "image": "https://avatars.githubusercontent.com/u/59965645?v=4"
+  },
+  {
+    "id": "293687812",
+    "title": "eiten",
+    "description": "Statistical and Algorithmic Investing Strategies for Everyone",
+    "language": "Python",
+    "stars": 3045,
+    "url": "https://github.com/tradytics/eiten",
+    "page": "project/eiten.html",
+    "image": "https://avatars.githubusercontent.com/u/69155516?v=4"
+  },
+  {
+    "id": "778427389",
+    "title": "ai.robots.txt",
+    "description": "A list of AI agents and robots to block.",
+    "language": "Python",
+    "stars": 3042,
+    "url": "https://github.com/ai-robots-txt/ai.robots.txt",
+    "page": "project/ai.robots.txt.html",
+    "image": "https://avatars.githubusercontent.com/u/165199036?v=4"
+  },
+  {
+    "id": "454479855",
+    "title": "rl",
+    "description": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.",
+    "language": "Python",
+    "stars": 3042,
+    "url": "https://github.com/pytorch/rl",
+    "page": "project/rl.html",
+    "image": "https://avatars.githubusercontent.com/u/21003710?v=4"
+  },
+  {
+    "id": "644862510",
+    "title": "langui",
+    "description": "UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.",
+    "language": "HTML",
+    "stars": 3038,
+    "url": "https://github.com/LangbaseInc/langui",
+    "page": "project/langui.html",
+    "image": "https://avatars.githubusercontent.com/u/151507869?v=4"
+  },
+  {
+    "id": "819113446",
+    "title": "ai-agents-masterclass",
+    "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+    "language": "Python",
+    "stars": 3029,
+    "url": "https://github.com/coleam00/ai-agents-masterclass",
+    "page": "project/ai-agents-masterclass.html",
+    "image": "https://avatars.githubusercontent.com/u/47287758?v=4"
+  },
+  {
+    "id": "924738875",
+    "title": "ai-cookbook",
+    "description": "Examples and tutorials to help developers build AI systems",
+    "language": "Python",
+    "stars": 3021,
+    "url": "https://github.com/daveebbelaar/ai-cookbook",
+    "page": "project/ai-cookbook.html",
+    "image": "https://avatars.githubusercontent.com/u/34709402?v=4"
+  },
+  {
+    "id": "772626560",
+    "title": "Awesome_GPT_Super_Prompting",
+    "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+    "language": "HTML",
+    "stars": 3015,
+    "url": "https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+    "page": "project/Awesome_GPT_Super_Prompting.html",
+    "image": "https://avatars.githubusercontent.com/u/145022163?v=4"
+  },
+  {
+    "id": "628250345",
+    "title": "AutoGPT-Next-Web",
+    "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.\u4e00\u952e\u514d\u8d39\u90e8\u7f72\u4f60\u7684\u79c1\u4ebaAutoGPT \u7f51\u9875\u5e94\u7528",
+    "language": "TypeScript",
+    "stars": 3012,
+    "url": "https://github.com/ElricLiu/AutoGPT-Next-Web",
+    "page": "project/AutoGPT-Next-Web.html",
+    "image": "https://avatars.githubusercontent.com/u/20209191?v=4"
+  },
+  {
+    "id": "889371307",
+    "title": "bRAG-langchain",
+    "description": "Everything you need to know to build your own RAG application",
+    "language": "Jupyter Notebook",
+    "stars": 3009,
+    "url": "https://github.com/bragai/bRAG-langchain",
+    "page": "project/bRAG-langchain.html",
+    "image": "https://avatars.githubusercontent.com/u/188657705?v=4"
+  },
+  {
+    "id": "441005943",
+    "title": "writer",
+    "description": "\u270d\ufe0f AI powered documentation writer",
+    "language": "TypeScript",
+    "stars": 3005,
+    "url": "https://github.com/mintlify/writer",
+    "page": "project/writer.html",
+    "image": "https://avatars.githubusercontent.com/u/93011474?v=4"
+  },
+  {
+    "id": "976095156",
+    "title": "koog",
+    "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "language": "Kotlin",
+    "stars": 3002,
+    "url": "https://github.com/JetBrains/koog",
+    "page": "project/koog.html",
+    "image": "https://avatars.githubusercontent.com/u/878437?v=4"
+  },
+  {
+    "id": "971447302",
+    "title": "cactus",
+    "description": "Run AI locally on phones and AI-native devices",
+    "language": "C++",
+    "stars": 2995,
+    "url": "https://github.com/cactus-compute/cactus",
+    "page": "project/cactus.html",
+    "image": "https://avatars.githubusercontent.com/u/196640840?v=4"
+  },
+  {
+    "id": "906848878",
+    "title": "nesa",
+    "description": "Run AI models end-to-end encrypted.",
+    "language": "Python",
+    "stars": 2993,
+    "url": "https://github.com/nesaorg/nesa",
+    "page": "project/nesa.html",
+    "image": "https://avatars.githubusercontent.com/u/162369208?v=4"
+  },
+  {
+    "id": "448167075",
+    "title": "reloadium",
+    "description": "Hot Reloading and Profiling for Python",
+    "language": "Python",
+    "stars": 2985,
+    "url": "https://github.com/reloadware/reloadium",
+    "page": "project/reloadium.html",
+    "image": "https://avatars.githubusercontent.com/u/85869255?v=4"
+  },
+  {
+    "id": "636179770",
+    "title": "project_next_14_ai_prompt_sharing",
+    "description": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.",
+    "language": "JavaScript",
+    "stars": 2981,
+    "url": "https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing",
+    "page": "project/project_next_14_ai_prompt_sharing.html",
+    "image": "https://avatars.githubusercontent.com/u/24898559?v=4"
+  },
+  {
+    "id": "601313570",
+    "title": "scribble-diffusion",
+    "description": "Turn your rough sketch into a refined image using AI",
+    "language": "JavaScript",
+    "stars": 2980,
+    "url": "https://github.com/replicate/scribble-diffusion",
+    "page": "project/scribble-diffusion.html",
+    "image": "https://avatars.githubusercontent.com/u/60410876?v=4"
+  },
+  {
+    "id": "74328027",
+    "title": "behaviac",
+    "description": "behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)",
+    "language": "C#",
+    "stars": 2979,
+    "url": "https://github.com/Tencent/behaviac",
+    "page": "project/behaviac.html",
+    "image": "https://avatars.githubusercontent.com/u/18461506?v=4"
+  },
+  {
+    "id": "262424540",
+    "title": "awesome-ml-courses",
+    "description": "Awesome free machine learning and AI courses with video lectures.",
+    "language": "Unknown",
+    "stars": 2975,
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "page": "project/awesome-ml-courses.html",
+    "image": "https://avatars.githubusercontent.com/u/16510614?v=4"
+  },
+  {
+    "id": "723094714",
+    "title": "lsp-ai",
+    "description": "LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.",
+    "language": "Rust",
+    "stars": 2974,
+    "url": "https://github.com/SilasMarvin/lsp-ai",
+    "page": "project/lsp-ai.html",
+    "image": "https://avatars.githubusercontent.com/u/19626586?v=4"
+  },
+  {
+    "id": "282411013",
+    "title": "uvadlc_notebooks",
+    "description": "Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023",
+    "language": "Jupyter Notebook",
+    "stars": 2969,
+    "url": "https://github.com/phlippe/uvadlc_notebooks",
+    "page": "project/uvadlc_notebooks.html",
+    "image": "https://avatars.githubusercontent.com/u/25037725?v=4"
+  },
+  {
+    "id": "442405131",
+    "title": "LakeSoul",
+    "description": "LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.",
+    "language": "Java",
+    "stars": 2967,
+    "url": "https://github.com/lakesoul-io/LakeSoul",
+    "page": "project/LakeSoul.html",
+    "image": "https://avatars.githubusercontent.com/u/132748458?v=4"
+  },
+  {
+    "id": "903233225",
+    "title": "cursor-ai-downloads",
+    "description": "All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. \ud83d\ude80",
+    "language": "TypeScript",
+    "stars": 2964,
+    "url": "https://github.com/oslook/cursor-ai-downloads",
+    "page": "project/cursor-ai-downloads.html",
+    "image": "https://avatars.githubusercontent.com/u/6346865?v=4"
+  },
+  {
+    "id": "436510608",
+    "title": "deepdoctection",
+    "description": "A Repo For Document AI",
+    "language": "Python",
+    "stars": 2953,
+    "url": "https://github.com/deepdoctection/deepdoctection",
+    "page": "project/deepdoctection.html",
+    "image": "https://avatars.githubusercontent.com/u/93912194?v=4"
+  },
+  {
+    "id": "346124279",
+    "title": "examples",
+    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+    "language": "Jupyter Notebook",
+    "stars": 2946,
+    "url": "https://github.com/pinecone-io/examples",
+    "page": "project/examples.html",
+    "image": "https://avatars.githubusercontent.com/u/54333248?v=4"
+  },
+  {
+    "id": "619814004",
+    "title": "databerry",
+    "description": "The no-code platform for building custom LLM Agents",
+    "language": "Unknown",
+    "stars": 2941,
+    "url": "https://github.com/gmpetrov/databerry",
+    "page": "project/databerry.html",
+    "image": "https://avatars.githubusercontent.com/u/4693180?v=4"
+  },
+  {
+    "id": "891365119",
+    "title": "Automated-AI-Web-Researcher-Ollama",
+    "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+    "language": "Python",
+    "stars": 2934,
+    "url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
+    "page": "project/Automated-AI-Web-Researcher-Ollama.html",
+    "image": "https://avatars.githubusercontent.com/u/169735170?v=4"
+  },
+  {
+    "id": "855011317",
+    "title": "AI-Guide-and-Demos-zh_CN",
+    "description": "\u8fd9\u662f\u4e00\u4efd\u5165\u95e8AI/LLM\u5927\u6a21\u578b\u7684\u9010\u6b65\u6307\u5357\uff0c\u5305\u542b\u6559\u7a0b\u548c\u6f14\u793a\u4ee3\u7801\uff0c\u5e26\u4f60\u4eceAPI\u8d70\u8fdb\u672c\u5730\u5927\u6a21\u578b\u90e8\u7f72\u548c\u5fae\u8c03\uff0c\u4ee3\u7801\u6587\u4ef6\u4f1a\u63d0\u4f9bKaggle\u6216Colab\u5728\u7ebf\u7248\u672c\uff0c\u5373\u4fbf\u6ca1\u6709\u663e\u5361\u4e5f\u53ef\u4ee5\u8fdb\u884c\u5b66\u4e60\u3002\u9879\u76ee\u4e2d\u8fd8\u5f00\u8bbe\u4e86\u4e00\u4e2a\u5c0f\u578b\u7684\u4ee3\u7801\u6e38\u4e50\u573a\ud83c\udfa1\uff0c\u4f60\u53ef\u4ee5\u5c1d\u8bd5\u5728\u91cc\u9762\u5b9e\u9a8c\u4e00\u4e9b\u6709\u610f\u601d\u7684AI\u811a\u672c\u3002\u540c\u65f6\uff0c\u5305\u542b\u674e\u5b8f\u6bc5 (HUNG-YI LEE\uff092024\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\u5bfc\u8bba\u8bfe\u7a0b\u7684\u5b8c\u6574\u4e2d\u6587\u955c\u50cf\u4f5c\u4e1a\u3002",
+    "language": "Python",
+    "stars": 2934,
+    "url": "https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN",
+    "page": "project/AI-Guide-and-Demos-zh_CN.html",
+    "image": "https://avatars.githubusercontent.com/u/79922894?v=4"
+  },
+  {
+    "id": "948904124",
+    "title": "Skywork-R1V",
+    "description": "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI (Kunlun Inc.), specializing in vision-language reasoning.",
+    "language": "Python",
+    "stars": 2932,
+    "url": "https://github.com/SkyworkAI/Skywork-R1V",
+    "page": "project/Skywork-R1V.html",
+    "image": "https://avatars.githubusercontent.com/u/147303017?v=4"
+  },
+  {
+    "id": "625021917",
+    "title": "Pearl",
+    "description": "A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta. ",
+    "language": "Python",
+    "stars": 2928,
+    "url": "https://github.com/facebookresearch/Pearl",
+    "page": "project/Pearl.html",
+    "image": "https://avatars.githubusercontent.com/u/16943930?v=4"
+  },
+  {
+    "id": "327109955",
+    "title": "ResnetGPT",
+    "description": "\u7528Resnet101+GPT\u642d\u5efa\u4e00\u4e2a\u73a9\u738b\u8005\u8363\u8000\u7684AI",
+    "language": "Python",
+    "stars": 2923,
+    "url": "https://github.com/FengQuanLi/ResnetGPT",
+    "page": "project/ResnetGPT.html",
+    "image": "https://avatars.githubusercontent.com/u/57764986?v=4"
+  },
+  {
+    "id": "706012006",
+    "title": "Linly-Talker",
+    "description": "Digital Avatar Conversational System - Linly-Talker. \ud83d\ude04\u2728 Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. \ud83e\udd1d\ud83e\udd16 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. \ud83c\udf1f\ud83d\udd2c",
+    "language": "Python",
+    "stars": 2920,
+    "url": "https://github.com/Kedreamix/Linly-Talker",
+    "page": "project/Linly-Talker.html",
+    "image": "https://avatars.githubusercontent.com/u/61195303?v=4"
+  },
+  {
+    "id": "124047136",
+    "title": "AlphaTree-graphic-deep-neural-network",
+    "description": "AI Roadmap:\u673a\u5668\u5b66\u4e60(Machine Learning)\u3001\u6df1\u5ea6\u5b66\u4e60(Deep Learning)\u3001\u5bf9\u6297\u795e\u7ecf\u7f51\u7edc(GAN\uff09\uff0c\u56fe\u795e\u7ecf\u7f51\u7edc\uff08GNN\uff09\uff0cNLP\uff0c\u5927\u6570\u636e\u76f8\u5173\u7684\u53d1\u5c55\u8def\u4e66(roadmap), \u5e76\u9644\u6d77\u91cf\u6e90\u7801\uff08python\uff0cpytorch\uff09\u5e26\u5927\u5bb6\u6d88\u5316\u57fa\u672c\u77e5\u8bc6\u70b9\uff0c\u7a81\u7834\u9762\u8bd5\uff0c\u5b8c\u6210\u4ece\u65b0\u624b\u5230\u5408\u683c\u5de5\u7a0b\u5e08\u7684\u8de8\u8d8a\uff0c\u5176\u4e2d\u6df1\u5ea6\u5b66\u4e60\u76f8\u5173\u8bba\u6587\u9644\u6709tensorflow caffe\u5b98\u65b9\u6e90\u7801\uff0c\u5e94\u7528\u90e8\u5206\u542b\u63a8\u8350\u7b97\u6cd5\u548c\u77e5\u8bc6\u56fe\u8c31",
+    "language": "Unknown",
+    "stars": 2912,
+    "url": "https://github.com/weslynn/AlphaTree-graphic-deep-neural-network",
+    "page": "project/AlphaTree-graphic-deep-neural-network.html",
+    "image": "https://avatars.githubusercontent.com/u/22336020?v=4"
+  },
+  {
+    "id": "132723022",
+    "title": "PhoenixGo",
+    "description": "Go AI program which implements the AlphaGo Zero paper",
+    "language": "C++",
+    "stars": 2911,
+    "url": "https://github.com/Tencent/PhoenixGo",
+    "page": "project/PhoenixGo.html",
+    "image": "https://avatars.githubusercontent.com/u/18461506?v=4"
+  },
+  {
+    "id": "425298533",
+    "title": "best_AI_papers_2021",
+    "description": "A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.",
+    "language": "Unknown",
+    "stars": 2909,
+    "url": "https://github.com/louisfb01/best_AI_papers_2021",
+    "page": "project/best_AI_papers_2021.html",
+    "image": "https://avatars.githubusercontent.com/u/70274208?v=4"
+  },
+  {
+    "id": "155518202",
+    "title": "PocketFlow",
+    "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+    "language": "Python",
+    "stars": 2909,
+    "url": "https://github.com/Tencent/PocketFlow",
+    "page": "project/PocketFlow.html",
+    "image": "https://avatars.githubusercontent.com/u/18461506?v=4"
+  },
+  {
+    "id": "490696709",
+    "title": "resume-design",
+    "description": "\u732b\u6b65\u7b80\u5386 \u2013 \u4e00\u6b3e\u5f00\u6e90\u514d\u8d39\u7684\u7b80\u5386\u5236\u4f5c\u795e\u5668\uff0c\u652f\u6301\u5bfc\u51fa\u8d85\u9ad8\u6e05PDF\u3001\u56fe\u7247\u3001\u6e90\u7801\u7ea7JSON\u6570\u636e\u3001Markdown\u683c\u5f0f\u7b49\uff0cAI\u7b80\u5386\u751f\u6210\u3001AI\u6da6\u8272\u3001AI\u8bed\u79cd\u7ffb\u8bd1\u7b49\u3002\u63d0\u4f9b\u6d77\u91cf\u5728\u7ebf\u5236\u4f5c\u6a21\u7248\u3001\u4e3b\u9898\u4efb\u610f\u5207\u6362\u3001\u9ad8\u5ea6\u5b9a\u5236\u5316\u7684\u7b80\u5386\u6a21\u5757\u3002\u4f7f\u7528\u732b\u6b65\u7b80\u5386\uff0c\u60a8\u53ef\u4ee5\u5236\u4f5c\u51fa\u4e00\u4efd\u72ec\u7279\u3001\u4f18\u7f8e\u3001\u4e13\u4e1a\u7684\u6c42\u804c\u7b80\u5386\u3002",
+    "language": "Vue",
+    "stars": 2899,
+    "url": "https://github.com/Hacker233/resume-design",
+    "page": "project/resume-design.html",
+    "image": "https://avatars.githubusercontent.com/u/28037169?v=4"
+  },
+  {
+    "id": "299951448",
+    "title": "awesome-notebooks",
+    "description": "[Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
+    "language": "Jupyter Notebook",
+    "stars": 2897,
+    "url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "page": "project/awesome-notebooks.html",
+    "image": "https://avatars.githubusercontent.com/u/71603764?v=4"
+  },
+  {
+    "id": "627744002",
+    "title": "mini-agi",
+    "description": "MiniAGI is a simple general-purpose AI agent based on the OpenAI API.",
+    "language": "Python",
+    "stars": 2894,
+    "url": "https://github.com/muellerberndt/mini-agi",
+    "page": "project/mini-agi.html",
+    "image": "https://avatars.githubusercontent.com/u/5194767?v=4"
+  },
+  {
+    "id": "479199191",
+    "title": "swirl-search",
+    "description": "AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.",
+    "language": "Python",
+    "stars": 2888,
+    "url": "https://github.com/swirlai/swirl-search",
+    "page": "project/swirl-search.html",
+    "image": "https://avatars.githubusercontent.com/u/125765320?v=4"
+  },
+  {
+    "id": "872080560",
+    "title": "Everlyn-1",
+    "description": "The first open autoregressive foundational video AI model.",
+    "language": "Unknown",
+    "stars": 2886,
+    "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+    "page": "project/Everlyn-1.html",
+    "image": "https://avatars.githubusercontent.com/u/182089857?v=4"
+  },
+  {
+    "id": "832300204",
+    "title": "database-build",
+    "description": "In-browser Postgres sandbox with AI assistance (formerly postgres.new)",
+    "language": "TypeScript",
+    "stars": 2886,
+    "url": "https://github.com/supabase-community/database-build",
+    "page": "project/database-build.html",
+    "image": "https://avatars.githubusercontent.com/u/87650496?v=4"
+  },
+  {
+    "id": "240788884",
+    "title": "siteproxy",
+    "description": "reverse proxy, online proxy, \u53cd\u5411\u4ee3\u7406,\u514d\u7ffb\u5899\u8bbf\u95eeYoutube/twitter/Google, \u652f\u6301github\u548ctelegram web\u767b\u5f55(\u8bf7\u6ce8\u610f\u4e0d\u8981\u901a\u8fc7\u4e0d\u4fe1\u4efb\u7684\u4ee3\u7406\u8fdb\u884c\u767b\u5f55)\u3002\u652f\u6301DuckDuckGo AI Chat(\u53ef\u514d\u8d39\u8bbf\u95eechatGPT3.5\u548cClaude3)",
+    "language": "JavaScript",
+    "stars": 2881,
+    "url": "https://github.com/netptop/siteproxy",
+    "page": "project/siteproxy.html",
+    "image": "https://avatars.githubusercontent.com/u/41029937?v=4"
+  },
+  {
+    "id": "25311354",
+    "title": "thinc",
+    "description": "\ud83d\udd2e A refreshing functional take on deep learning, compatible with your favorite libraries",
+    "language": "Python",
+    "stars": 2878,
+    "url": "https://github.com/explosion/thinc",
+    "page": "project/thinc.html",
+    "image": "https://avatars.githubusercontent.com/u/20011530?v=4"
+  },
+  {
+    "id": "705695450",
+    "title": "distilabel",
+    "description": "Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.",
+    "language": "Python",
+    "stars": 2876,
+    "url": "https://github.com/argilla-io/distilabel",
+    "page": "project/distilabel.html",
+    "image": "https://avatars.githubusercontent.com/u/18415507?v=4"
+  },
+  {
+    "id": "924568745",
+    "title": "ruby_llm",
+    "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+    "language": "Ruby",
+    "stars": 2875,
+    "url": "https://github.com/crmne/ruby_llm",
+    "page": "project/ruby_llm.html",
+    "image": "https://avatars.githubusercontent.com/u/106617?v=4"
+  }
+]
